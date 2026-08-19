@@ -8,7 +8,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [github organization](https://github.com/pixijs).
 
-[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,027 | 🐛 355 | 🌐 TypeScript | 📅 2026-08-18.
+[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,033 | 🐛 355 | 🌐 TypeScript | 📅 2026-08-18.
 
 [pixijs.com](http://www.pixijs.com/) – official website.
 
@@ -56,7 +56,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 # Debug
 
-[pixi-inspector](https://github.com/bfanger/pixi-inspector) ⭐ 419 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-17 – awesome [plugin for chrome](https://chrome.google.com/webstore/detail/pixi-inspector/aamddddknhcagpehecnhphigffljadon), visually inspect and modify nodes in your scene graph.
+[pixi-inspector](https://github.com/bfanger/pixi-inspector) ⭐ 419 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-19 – awesome [plugin for chrome](https://chrome.google.com/webstore/detail/pixi-inspector/aamddddknhcagpehecnhphigffljadon), visually inspect and modify nodes in your scene graph.
 
 [pixi-console](https://github.com/jkanchelov/pixi-console) ⭐ 43 | 🐛 12 | 🌐 TypeScript | 📅 2026-04-25 - adds a container that shows console log. Useful on mobile devices.
 
@@ -100,7 +100,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 # Audio
 
-[pixi-sound](https://github.com/pixijs/pixi-sound) ⭐ 475 | 🐛 53 | 🌐 TypeScript | 📅 2024-09-27 – official WebAudio API playback without any Flash shims or HTML Audio fallback.
+[pixi-sound](https://github.com/pixijs/pixi-sound) ⭐ 476 | 🐛 53 | 🌐 TypeScript | 📅 2024-09-27 – official WebAudio API playback without any Flash shims or HTML Audio fallback.
 
 [sound.js](https://github.com/kittykatattack/sound.js) ⭐ 318 | 🐛 17 | 🌐 JavaScript | 📅 2024-04-25 – a micro-library to load, play and generate sound effects and music for games and interactive applications.
 
@@ -128,7 +128,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [react-pixi-fiber](https://github.com/michalochman/react-pixi-fiber) ⭐ 880 | 🐛 3 | 🌐 JavaScript | 📅 2025-03-18 – integration with react.js framework.
 
-[react-pixi](https://github.com/inlet/react-pixi) ⭐ 2,878 | 🐛 43 | 🌐 TypeScript | 📅 2026-01-16 – another react.js integration with custom renderer, reconcilation, etc.
+[react-pixi](https://github.com/inlet/react-pixi) ⭐ 2,879 | 🐛 43 | 🌐 TypeScript | 📅 2026-01-16 – another react.js integration with custom renderer, reconcilation, etc.
 
 [RobotlegsJS-Pixi](https://github.com/RobotlegsJS/RobotlegsJS-Pixi) ⭐ 25 | 🐛 2 | 🌐 TypeScript | 📅 2021-06-11 – RobotlegsJS framework integration with PixiJS.
 
@@ -178,4 +178,4 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
