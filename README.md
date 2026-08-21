@@ -8,7 +8,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [github organization](https://github.com/pixijs).
 
-[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,039 | 🐛 345 | 🌐 TypeScript | 📅 2026-08-20.
+[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,042 | 🐛 344 | 🌐 TypeScript | 📅 2026-08-21.
 
 [pixijs.com](http://www.pixijs.com/) – official website.
 
@@ -94,7 +94,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [gown.js](https://github.com/GreyRook/gown.js) ⭐ 226 | 🐛 46 | 🌐 JavaScript | 📅 2023-09-29 – UI system for pixi.js inspired by [feathers-ui](https://feathersui.com/).
 
-[dat.gui](https://github.com/dataarts/dat.gui) ⭐ 7,721 | 🐛 124 | 🌐 JavaScript | 📅 2026-06-21 – DOM-based GUI can be used as dev tools on top of pixi.
+[dat.gui](https://github.com/dataarts/dat.gui) ⭐ 7,722 | 🐛 124 | 🌐 JavaScript | 📅 2026-06-21 – DOM-based GUI can be used as dev tools on top of pixi.
 
 [heatmap](https://github.com/nconrad/heatmap) ⭐ 18 | 🐛 20 | 🌐 JavaScript | 📅 2023-01-14 – WebGL Heatmap Viewer for Bioinformatics and Big Data.
 
@@ -158,7 +158,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [polyball](https://github.com/polyball/polyball) ⭐ 11 | 🐛 16 | 🌐 JavaScript | 📅 2016-05-26 – fast, multiplayer, physics-driven tennis in two dimensions..
 
-[bemuse](https://github.com/bemusic/bemuse) ⭐ 1,240 | 🐛 31 | 🌐 TypeScript | 📅 2026-07-27 – web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
+[bemuse](https://github.com/bemusic/bemuse) ⭐ 1,239 | 🐛 31 | 🌐 TypeScript | 📅 2026-07-27 – web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
 
 [breakout](https://github.com/Bonnee/breakthefuckout) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2016-10-22 – breakout game made in JavaScript and Pixi.js.
 
@@ -178,4 +178,4 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
