@@ -8,7 +8,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [github organization](https://github.com/pixijs).
 
-[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,064 | 🐛 346 | 🌐 TypeScript | 📅 2026-08-21.
+[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,066 | 🐛 339 | 🌐 TypeScript | 📅 2026-08-24.
 
 [pixijs.com](http://www.pixijs.com/) – official website.
 
@@ -56,7 +56,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 # Debug
 
-[pixi-inspector](https://github.com/bfanger/pixi-inspector) ⭐ 419 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-19 – awesome [plugin for chrome](https://chrome.google.com/webstore/detail/pixi-inspector/aamddddknhcagpehecnhphigffljadon), visually inspect and modify nodes in your scene graph.
+[pixi-inspector](https://github.com/bfanger/pixi-inspector) ⭐ 420 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-19 – awesome [plugin for chrome](https://chrome.google.com/webstore/detail/pixi-inspector/aamddddknhcagpehecnhphigffljadon), visually inspect and modify nodes in your scene graph.
 
 [pixi-console](https://github.com/jkanchelov/pixi-console) ⭐ 43 | 🐛 12 | 🌐 TypeScript | 📅 2026-04-25 - adds a container that shows console log. Useful on mobile devices.
 
@@ -128,7 +128,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [react-pixi-fiber](https://github.com/michalochman/react-pixi-fiber) ⭐ 880 | 🐛 3 | 🌐 JavaScript | 📅 2025-03-18 – integration with react.js framework.
 
-[react-pixi](https://github.com/inlet/react-pixi) ⭐ 2,880 | 🐛 43 | 🌐 TypeScript | 📅 2026-01-16 – another react.js integration with custom renderer, reconcilation, etc.
+[react-pixi](https://github.com/inlet/react-pixi) ⭐ 2,881 | 🐛 43 | 🌐 TypeScript | 📅 2026-01-16 – another react.js integration with custom renderer, reconcilation, etc.
 
 [RobotlegsJS-Pixi](https://github.com/RobotlegsJS/RobotlegsJS-Pixi) ⭐ 25 | 🐛 2 | 🌐 TypeScript | 📅 2021-06-11 – RobotlegsJS framework integration with PixiJS.
 
@@ -158,7 +158,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [polyball](https://github.com/polyball/polyball) ⭐ 11 | 🐛 16 | 🌐 JavaScript | 📅 2016-05-26 – fast, multiplayer, physics-driven tennis in two dimensions..
 
-[bemuse](https://github.com/bemusic/bemuse) ⭐ 1,240 | 🐛 31 | 🌐 TypeScript | 📅 2026-07-27 – web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
+[bemuse](https://github.com/bemusic/bemuse) ⭐ 1,241 | 🐛 31 | 🌐 TypeScript | 📅 2026-07-27 – web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
 
 [breakout](https://github.com/Bonnee/breakthefuckout) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2016-10-22 – breakout game made in JavaScript and Pixi.js.
 
