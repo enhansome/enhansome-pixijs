@@ -8,7 +8,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [github organization](https://github.com/pixijs).
 
-[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,056 | 🐛 346 | 🌐 TypeScript | 📅 2026-08-21.
+[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,064 | 🐛 346 | 🌐 TypeScript | 📅 2026-08-21.
 
 [pixijs.com](http://www.pixijs.com/) – official website.
 
@@ -178,4 +178,4 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
