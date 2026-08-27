@@ -854,9 +854,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T01:01:37.625Z",
-    "original_repository": "cursedcoder/awesome-pixijs",
-    "original_repository_id": 81791979,
+    "last_updated": "2026-08-27T11:56:46.228Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 81791979,
+      "language": null,
+      "last_commit": "2023-10-08T19:58:39Z",
+      "owner": "cursedcoder",
+      "repo": "awesome-pixijs",
+      "stars": 776
+    },
     "original_repository_sha": "7999481beab6bc97e10eb71d4d40717a130419dd",
     "enhanced_repository": "enhansome/enhansome-pixijs",
     "enhanced_repository_description": null,
