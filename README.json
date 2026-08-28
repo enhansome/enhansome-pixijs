@@ -16,7 +16,8 @@
             "owner": "avgjs",
             "repo": "pixi-richtext",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "pixijs-userland",
             "repo": "layers",
             "stars": 231
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "pixijs-userland",
             "repo": "picture",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "pixijs-userland",
             "repo": "tilemap",
             "stars": 331
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "PixelsCommander",
             "repo": "pixi-sdf-text",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "mimshwright",
             "repo": "pixi-tagged-text",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "georgiee",
             "repo": "lab-pixicam",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "gameofbombs",
             "repo": "pixi-super-atlas",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "pixijs-userland",
             "repo": "pixi-heaven",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "pixijs-userland",
             "repo": "pixi-viewport",
             "stars": 1219
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "CurriculumAssociates",
             "repo": "canvas-latex",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "davidfig",
             "repo": "rendersheet",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         }
       ],
       "title": "Scene, textures, sprites, other augmentations"
@@ -202,7 +214,8 @@
             "owner": "bfanger",
             "repo": "pixi-inspector",
             "stars": 420
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "yordan-kanchelov",
             "repo": "pixi-console",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "eXponenta",
             "repo": "gstatsjs",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         }
       ],
       "title": "Debug"
@@ -253,7 +268,8 @@
             "owner": "pixijs-userland",
             "repo": "spine",
             "stars": 626
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "hustcc",
             "repo": "pixi-action",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "avgjs",
             "repo": "pixi-live2d",
             "stars": 683
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "Nazariglez",
             "repo": "pixi-tween",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "pixijs-userland",
             "repo": "animate",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "davidfig",
             "repo": "pixi-ease",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "mimshwright",
             "repo": "pixi-easing-graph",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         }
       ],
       "title": "Animate"
@@ -364,7 +386,8 @@
             "owner": "Ezelia",
             "repo": "EZGUI",
             "stars": 446
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -379,7 +402,8 @@
             "owner": "GreyRook",
             "repo": "gown.js",
             "stars": 226
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -393,8 +417,9 @@
             "last_commit": "2026-06-21T09:18:45Z",
             "owner": "dataarts",
             "repo": "dat.gui",
-            "stars": 7725
-          }
+            "stars": 7724
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -409,7 +434,8 @@
             "owner": "nconrad",
             "repo": "hotmap",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         }
       ],
       "title": "GUI and interaction"
@@ -430,7 +456,8 @@
             "owner": "pixijs",
             "repo": "sound",
             "stars": 476
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -445,7 +472,8 @@
             "owner": "kittykatattack",
             "repo": "sound.js",
             "stars": 318
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         }
       ],
       "title": "Audio"
@@ -466,7 +494,8 @@
             "owner": "pixijs-userland",
             "repo": "particle-emitter",
             "stars": 853
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -481,7 +510,8 @@
             "owner": "pixijs-userland",
             "repo": "particle-emitter-editor",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         }
       ],
       "title": "Particles"
@@ -502,7 +532,8 @@
             "owner": "alexkehayias",
             "repo": "chocolatier",
             "stars": 429
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -517,7 +548,8 @@
             "owner": "kittykatattack",
             "repo": "hexi",
             "stars": 560
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -532,7 +564,8 @@
             "owner": "gamestdio",
             "repo": "pixi-engine",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         }
       ],
       "title": "Game Engines"
@@ -553,7 +586,8 @@
             "owner": "pixijs-userland",
             "repo": "pixi-haxe",
             "stars": 181
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -568,7 +602,8 @@
             "owner": "Izzimach",
             "repo": "react-pixi",
             "stars": 745
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -583,7 +618,8 @@
             "owner": "scalajs-io",
             "repo": "pixijs",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -598,7 +634,8 @@
             "owner": "michalochman",
             "repo": "react-pixi-fiber",
             "stars": 880
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -613,7 +650,8 @@
             "owner": "pixijs",
             "repo": "pixi-react",
             "stars": 2884
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -628,7 +666,8 @@
             "owner": "RobotlegsJS",
             "repo": "RobotlegsJS-Pixi",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         }
       ],
       "title": "Integrations"
@@ -649,7 +688,8 @@
             "owner": "kittykatattack",
             "repo": "learningPixi",
             "stars": 4417
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         }
       ],
       "title": "Books & Learning"
@@ -670,7 +710,8 @@
             "owner": "gameofbombs",
             "repo": "pixi.js",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         }
       ],
       "title": "Forks"
@@ -691,7 +732,8 @@
             "owner": "krzysztof-o",
             "repo": "spritesheet.js",
             "stars": 568
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         }
       ],
       "title": "Tools"
@@ -712,7 +754,8 @@
             "owner": "polyball",
             "repo": "polyball",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -727,7 +770,8 @@
             "owner": "bemusic",
             "repo": "bemuse",
             "stars": 1241
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -742,7 +786,8 @@
             "owner": "bonnee",
             "repo": "breakthefuckout",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -757,7 +802,8 @@
             "owner": "MattSurabian",
             "repo": "DuckHunt-JS",
             "stars": 630
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -772,7 +818,8 @@
             "owner": "matiasbeckerle",
             "repo": "doom-lgs",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -787,7 +834,8 @@
             "owner": "rocket-hands",
             "repo": "rockvomit",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -802,7 +850,8 @@
             "owner": "ivanpopelyshev",
             "repo": "railways",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -817,7 +866,8 @@
             "owner": "nylira",
             "repo": "tetris",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -832,7 +882,8 @@
             "owner": "simnalamburt",
             "repo": "game.hyeon.me",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         },
         {
           "node_type": "item",
@@ -847,14 +898,15 @@
             "owner": "legendofmountainsea",
             "repo": "LegendOfMountainSea",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T05:35:51.874Z"
         }
       ],
       "title": "Games"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:56:46.228Z",
+    "last_updated": "2026-08-28T05:35:51.874Z",
     "original_repository_info": {
       "archived": false,
       "id": 81791979,
