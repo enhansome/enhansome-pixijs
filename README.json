@@ -309,7 +309,7 @@
             "id": 37883022,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-19T13:28:32Z",
+            "last_commit": "2026-08-29T18:16:12Z",
             "open_issues": 4,
             "owner": "bfanger",
             "repo": "pixi-inspector",
@@ -1023,7 +1023,7 @@
             "open_issues": 62,
             "owner": "kittykatattack",
             "repo": "learningPixi",
-            "stars": 4417,
+            "stars": 4416,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -1358,7 +1358,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:40:50.455Z",
+    "last_updated": "2026-08-29T23:34:32.382Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
