@@ -649,7 +649,7 @@
             "last_commit": "2026-01-16T14:13:41Z",
             "owner": "pixijs",
             "repo": "pixi-react",
-            "stars": 2884
+            "stars": 2885
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -766,7 +766,7 @@
             "archived": false,
             "id": 27105154,
             "language": "TypeScript",
-            "last_commit": "2026-07-27T11:48:16Z",
+            "last_commit": "2026-08-28T17:05:54Z",
             "owner": "bemusic",
             "repo": "bemuse",
             "stars": 1241
@@ -906,7 +906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:35:51.874Z",
+    "last_updated": "2026-08-29T03:21:26.505Z",
     "original_repository_info": {
       "archived": false,
       "id": 81791979,
