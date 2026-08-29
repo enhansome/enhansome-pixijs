@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Rich Text solution for PixiJS using SDF.",
+            "homepage": null,
             "id": 99418135,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-04-09T06:03:58Z",
+            "open_issues": 2,
             "owner": "avgjs",
             "repo": "pixi-richtext",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "avgjs",
+              "pixi",
+              "pixi-richtext",
+              "pixijs",
+              "rich-text",
+              "sdf",
+              "signed-distance-field"
+            ]
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -26,12 +39,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Separate the z-hierarchy of your scene tree from its canonical structure. ",
+            "homepage": "https://userland.pixijs.io/layers/docs/",
             "id": 60622496,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-12-20T00:59:11Z",
+            "open_issues": 43,
             "owner": "pixijs-userland",
             "repo": "layers",
-            "stars": 231
+            "stars": 231,
+            "topics": [
+              "pixijs"
+            ]
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -42,12 +62,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin that includes a sprite renderer that reduces border artifacts and 3 blend mode implementations for WebGL",
+            "homepage": null,
             "id": 59420975,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-06-04T15:23:28Z",
+            "open_issues": 15,
             "owner": "pixijs-userland",
             "repo": "picture",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -58,12 +83,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rectangular tilemap implementation for PixiJS",
+            "homepage": "https://userland.pixijs.io/tilemap/docs/",
             "id": 45563203,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-07-14T00:24:28Z",
+            "open_issues": 51,
             "owner": "pixijs-userland",
             "repo": "tilemap",
-            "stars": 331
+            "stars": 331,
+            "topics": [
+              "canvas",
+              "tilemap",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -74,12 +108,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Signed distance field text implementation for PixiJS",
+            "homepage": null,
             "id": 80462675,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-05-17T11:54:10Z",
+            "open_issues": 6,
             "owner": "PixelsCommander",
             "repo": "pixi-sdf-text",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "glsl",
+              "pixijs",
+              "sdf",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -90,12 +134,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A component for pixi similar to Text that supports multiple styles in a single component as well as inline images.",
+            "homepage": null,
             "id": 351568876,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-09-19T04:26:33Z",
+            "open_issues": 45,
             "owner": "mimshwright",
             "repo": "pixi-tagged-text",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -106,12 +155,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A matrix based 2d camera to use in pixi.js",
+            "homepage": "http://georgiee.github.io/lab-pixicam/",
             "id": 38030023,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-04-15T16:02:30Z",
+            "open_issues": 3,
             "owner": "georgiee",
             "repo": "lab-pixicam",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -122,12 +176,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Runtime atlas for PixiJS v4",
+            "homepage": null,
             "id": 100614480,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2017-11-13T22:39:10Z",
+            "open_issues": 1,
             "owner": "gameofbombs",
             "repo": "pixi-super-atlas",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -138,12 +197,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PIXI.js advanced color modes, sprites, meshes",
+            "homepage": null,
             "id": 103675489,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-12-20T14:50:32Z",
+            "open_issues": 15,
             "owner": "pixijs-userland",
             "repo": "pixi-heaven",
-            "stars": 117
+            "stars": 117,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -154,12 +218,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A highly configurable viewport/2D camera designed to work with pixi.js",
+            "homepage": "https://viewport.pixijs.io",
             "id": 101721794,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-02-03T21:23:23Z",
+            "open_issues": 144,
             "owner": "pixijs-userland",
             "repo": "pixi-viewport",
-            "stars": 1219
+            "stars": 1219,
+            "topics": [
+              "2d-camera",
+              "bounce",
+              "pixi",
+              "touch",
+              "viewport",
+              "zoom"
+            ]
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -170,12 +246,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Bringing quick and beautiful math-typesetting to HTML5's canvas.",
+            "homepage": null,
             "id": 149770936,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-25T18:32:15Z",
+            "open_issues": 17,
             "owner": "CurriculumAssociates",
             "repo": "canvas-latex",
-            "stars": 102
+            "stars": 102,
+            "topics": [
+              "canvas",
+              "createjs",
+              "html5",
+              "javascript",
+              "katex",
+              "latex",
+              "math",
+              "mathml",
+              "pixijs"
+            ]
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -186,12 +277,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "renders a canvas spritesheet for use with pixi.js",
+            "homepage": null,
             "id": 62563481,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-04T23:46:27Z",
+            "open_issues": 11,
             "owner": "davidfig",
             "repo": "rendersheet",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         }
@@ -208,12 +304,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Devtools for PixiJS",
+            "homepage": "https://chrome.google.com/webstore/detail/pixi-inspector/aamddddknhcagpehecnhphigffljadon",
             "id": 37883022,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-19T13:28:32Z",
+            "open_issues": 4,
             "owner": "bfanger",
             "repo": "pixi-inspector",
-            "stars": 420
+            "stars": 420,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -224,12 +325,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pixi.js console ",
+            "homepage": null,
             "id": 119281621,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-25T12:47:40Z",
+            "open_issues": 12,
             "owner": "yordan-kanchelov",
             "repo": "pixi-console",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "console",
+              "console-tool",
+              "pixijs"
+            ]
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -240,12 +350,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Graphics statistic (DrawCalls and  TextureCount) for WebGL ",
+            "homepage": "https://exponenta.github.io/gstatsjs/",
             "id": 120923042,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2022-01-19T20:39:32Z",
+            "open_issues": 0,
             "owner": "eXponenta",
             "repo": "gstatsjs",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "drawcalls",
+              "phaser",
+              "pixijs",
+              "statistics",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         }
@@ -262,12 +383,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pixi.js plugin that enables Spine support.",
+            "homepage": null,
             "id": 32829456,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-03-24T11:57:30Z",
+            "open_issues": 195,
             "owner": "pixijs-userland",
             "repo": "spine",
-            "stars": 626
+            "stars": 626,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -278,12 +404,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":horse_racing: pixi-action is a plugin for Pixi.js to create actions and animations easily, inspired by Cocos2d-x.",
+            "homepage": "http://git.hust.cc/pixi-action/",
             "id": 77006074,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2017-12-27T02:55:16Z",
+            "open_issues": 2,
             "owner": "hustcc",
             "repo": "pixi-action",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "actionmanager",
+              "animation",
+              "cocos2d",
+              "cocos2d-x",
+              "elapsedtime",
+              "pixi",
+              "pixi-action",
+              "rotation",
+              "tint"
+            ]
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -294,12 +435,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Display live2D model as a sprite in pixi.js.",
+            "homepage": "https://avgjs.github.io/pixi-live2d-example/",
             "id": 70814358,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2017-04-12T15:06:58Z",
+            "open_issues": 3,
             "owner": "avgjs",
             "repo": "pixi-live2d",
-            "stars": 683
+            "stars": 683,
+            "topics": [
+              "live2d",
+              "pixi",
+              "pixi-live2d",
+              "pixijs"
+            ]
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -310,12 +461,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "pixi-tween is a plugin for Pixi.js v3.0.8 or higher to create tween animations.",
+            "homepage": null,
             "id": 49197440,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-09-15T14:56:36Z",
+            "open_issues": 13,
             "owner": "Nazariglez",
             "repo": "pixi-tween",
-            "stars": 98
+            "stars": 98,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -326,12 +482,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PixiJS runtime library for content from Adobe Animate CC",
+            "homepage": "https://userland.pixijs.io/animate/",
             "id": 50436392,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-10-05T18:39:17Z",
+            "open_issues": 26,
             "owner": "pixijs-userland",
             "repo": "animate",
-            "stars": 223
+            "stars": 223,
+            "topics": [
+              "animation",
+              "es6-javascript",
+              "javascript-library",
+              "movieclips",
+              "pixi"
+            ]
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -342,12 +509,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pixi.js animation library using easing functions",
+            "homepage": null,
             "id": 103220391,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-07-20T10:27:14Z",
+            "open_issues": 18,
             "owner": "davidfig",
             "repo": "pixi-ease",
-            "stars": 104
+            "stars": 104,
+            "topics": [
+              "animate",
+              "ease",
+              "easing",
+              "pixi"
+            ]
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -358,12 +535,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pixi-easing-graph",
+            "homepage": "https://mimshwright.github.io/pixi-easing-graph/",
             "id": 571985858,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-28T23:11:59Z",
+            "open_issues": 3,
             "owner": "mimshwright",
             "repo": "pixi-easing-graph",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         }
@@ -380,12 +562,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EZGUI - The missing GUI for Pixi.js and Phaser.io",
+            "homepage": "http://ezgui.ezelia.com",
             "id": 34285548,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-05-17T10:34:26Z",
+            "open_issues": 21,
             "owner": "Ezelia",
             "repo": "EZGUI",
-            "stars": 446
+            "stars": 446,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -396,12 +583,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UI system for pixi.js inspired by feathers-ui",
+            "homepage": null,
             "id": 31591014,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-09-29T11:40:27Z",
+            "open_issues": 46,
             "owner": "GreyRook",
             "repo": "gown.js",
-            "stars": 226
+            "stars": 226,
+            "topics": [
+              "canvas",
+              "feathers-ui",
+              "html5-canvas",
+              "javascript",
+              "pixi",
+              "pixijs",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -412,12 +612,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight controller library for JavaScript.",
+            "homepage": null,
             "id": 1285639,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-21T09:18:45Z",
+            "open_issues": 124,
             "owner": "dataarts",
             "repo": "dat.gui",
-            "stars": 7724
+            "stars": 7724,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -428,12 +633,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebGL Heatmap Viewer for Big Data and Bioinformatics",
+            "homepage": "https://nconrad.github.io/hotmap/demo/",
             "id": 162336667,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-14T00:36:52Z",
+            "open_issues": 20,
             "owner": "nconrad",
             "repo": "hotmap",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "big-data",
+              "bioinformatics",
+              "charts",
+              "data-analysis",
+              "data-visualization",
+              "dataviz",
+              "heatmap",
+              "pixijs",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         }
@@ -450,12 +670,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebAudio API playback library, with filters. Modern audio playback for modern browsers.",
+            "homepage": "https://pixijs.io/sound/examples/",
             "id": 80853199,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-09-27T05:27:34Z",
+            "open_issues": 53,
             "owner": "pixijs",
             "repo": "sound",
-            "stars": 476
+            "stars": 476,
+            "topics": [
+              "javascript-library",
+              "pixi",
+              "pixijs",
+              "webaudio",
+              "webaudio-api",
+              "webaudio-api-playback"
+            ]
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -466,12 +698,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A micro-library to load, play and generate sound effects and music for games and interactive applications",
+            "homepage": null,
             "id": 26765973,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-04-25T20:23:17Z",
+            "open_issues": 17,
             "owner": "kittykatattack",
             "repo": "sound.js",
-            "stars": 318
+            "stars": 318,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         }
@@ -488,12 +725,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A particle system for PixiJS",
+            "homepage": "http://particle-emitter.pixijs.io/docs/",
             "id": 23367911,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-01-09T04:44:16Z",
+            "open_issues": 19,
             "owner": "pixijs-userland",
             "repo": "particle-emitter",
-            "stars": 853
+            "stars": 853,
+            "topics": [
+              "javascript-library",
+              "particles",
+              "pixijs"
+            ]
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -504,12 +750,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PIXI-based particle editor",
+            "homepage": "http://particle-emitter-editor.pixijs.io/",
             "id": 23764451,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-12-21T00:22:29Z",
+            "open_issues": 11,
             "owner": "pixijs-userland",
             "repo": "particle-emitter-editor",
-            "stars": 75
+            "stars": 75,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         }
@@ -526,12 +777,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "WIP ClojureScript game/engine using Pixi.js for rendering.",
+            "homepage": null,
             "id": 16061670,
             "language": "Clojure",
+            "license": "EPL-1.0",
             "last_commit": "2020-04-04T16:06:21Z",
+            "open_issues": 3,
             "owner": "alexkehayias",
             "repo": "chocolatier",
-            "stars": 429
+            "stars": 429,
+            "topics": [
+              "clojure",
+              "clojurescript",
+              "entity-component-system",
+              "game-engine"
+            ]
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -542,12 +803,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make games the fun way!",
+            "homepage": null,
             "id": 43715255,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-03-23T22:12:22Z",
+            "open_issues": 47,
             "owner": "kittykatattack",
             "repo": "hexi",
-            "stars": 560
+            "stars": 560,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -558,12 +824,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provides a minimal engine-like structure for developing games with PixiJS",
+            "homepage": null,
             "id": 115031540,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2018-05-22T18:38:24Z",
+            "open_issues": 2,
             "owner": "gamestdio",
             "repo": "pixi-engine",
-            "stars": 77
+            "stars": 77,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         }
@@ -580,12 +851,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Externs of Pixi.js for Haxe",
+            "homepage": "http://www.pixijs.com",
             "id": 24714645,
             "language": "Haxe",
+            "license": "MIT",
             "last_commit": "2022-07-15T08:01:39Z",
+            "open_issues": 5,
             "owner": "pixijs-userland",
             "repo": "pixi-haxe",
-            "stars": 181
+            "stars": 181,
+            "topics": [
+              "canvas",
+              "externs",
+              "haxe",
+              "pixi",
+              "pixi-haxe",
+              "pixijs",
+              "renderer",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -596,12 +881,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create/control a Pixi.js canvas using React",
+            "homepage": null,
             "id": 18450782,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2018-10-25T15:48:42Z",
+            "open_issues": 10,
             "owner": "Izzimach",
             "repo": "react-pixi",
-            "stars": 745
+            "stars": 745,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -612,12 +902,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Super fast 2D rendering engine for browserify, that uses WebGL with a context 2d fallback.",
+            "homepage": null,
             "id": 80951784,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2019-06-17T23:10:59Z",
+            "open_issues": 0,
             "owner": "scalajs-io",
             "repo": "pixijs",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "canvas",
+              "canvas2d",
+              "html",
+              "pixi",
+              "pixijs",
+              "scala",
+              "scalajs"
+            ]
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -628,12 +931,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Write PixiJS applications using React declarative style.",
+            "homepage": null,
             "id": 116292940,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-03-18T12:09:36Z",
+            "open_issues": 3,
             "owner": "michalochman",
             "repo": "react-pixi-fiber",
-            "stars": 880
+            "stars": 880,
+            "topics": [
+              "pixi",
+              "pixijs",
+              "react",
+              "reactjs",
+              "renderer"
+            ]
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -644,12 +958,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Write PIXI apps using React declarative style",
+            "homepage": "https://react.pixijs.io/",
             "id": 125637394,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-01-16T14:13:41Z",
+            "open_issues": 43,
             "owner": "pixijs",
             "repo": "pixi-react",
-            "stars": 2885
+            "stars": 2885,
+            "topics": [
+              "pixi",
+              "react",
+              "react-fiber",
+              "renderer"
+            ]
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -660,12 +984,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RobotlegsJS framework integration with PixiJS",
+            "homepage": "https://www.npmjs.com/package/@robotlegsjs/pixi",
             "id": 99503232,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-06-11T20:31:57Z",
+            "open_issues": 2,
             "owner": "RobotlegsJS",
             "repo": "RobotlegsJS-Pixi",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "pixijs",
+              "robotlegsjs"
+            ]
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         }
@@ -682,12 +1014,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A step-by-step introduction to making games and interactive media with the Pixi.js rendering engine.",
+            "homepage": null,
             "id": 26843500,
             "language": null,
+            "license": null,
             "last_commit": "2021-09-11T13:53:18Z",
+            "open_issues": 62,
             "owner": "kittykatattack",
             "repo": "learningPixi",
-            "stars": 4417
+            "stars": 4417,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         }
@@ -704,12 +1041,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Super fast HTML 5 2D rendering engine that uses webGPU with WebGL/canvas fallback",
+            "homepage": null,
             "id": 32210579,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-03-20T17:58:39Z",
+            "open_issues": 0,
             "owner": "gameofbombs",
             "repo": "pixi.js",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         }
@@ -726,12 +1068,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command-line spritesheet generator supporting Starling / Sparrow, PIXI.js, Easel.js and cocos2d",
+            "homepage": null,
             "id": 12933201,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-04T01:13:39Z",
+            "open_issues": 33,
             "owner": "krzysztof-o",
             "repo": "spritesheet.js",
-            "stars": 568
+            "stars": 568,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         }
@@ -748,12 +1095,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast multiplayer tennis in two dimensions.",
+            "homepage": null,
             "id": 49978760,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-05-26T14:30:46Z",
+            "open_issues": 16,
             "owner": "polyball",
             "repo": "polyball",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -764,12 +1116,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⬤▗▚▚▚ Web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.",
+            "homepage": "https://bemuse.ninja/",
             "id": 27105154,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T17:05:54Z",
+            "open_issues": 32,
             "owner": "bemusic",
             "repo": "bemuse",
-            "stars": 1241
+            "stars": 1241,
+            "topics": [
+              "bms",
+              "bmson",
+              "docusaurus",
+              "hacktoberfest",
+              "html5",
+              "javascript",
+              "pixi",
+              "react",
+              "redux",
+              "rhythm-game",
+              "rushjs",
+              "scss",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -780,12 +1151,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Breakout game made in JavaScript and Pixi.js",
+            "homepage": "http://bonnee.github.io/breakthefuckout/",
             "id": 43546510,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2016-10-22T12:26:24Z",
+            "open_issues": 0,
             "owner": "bonnee",
             "repo": "breakthefuckout",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "breakout",
+              "canvas",
+              "howlerjs",
+              "javascript",
+              "pixi"
+            ]
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -796,12 +1178,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DuckHunt ported to JS and HTML5",
+            "homepage": "https://duckhuntjs.com",
             "id": 2594863,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-30T01:31:15Z",
+            "open_issues": 14,
             "owner": "MattSurabian",
             "repo": "DuckHunt-JS",
-            "stars": 630
+            "stars": 630,
+            "topics": [
+              "audio",
+              "canvas",
+              "duck-hunt",
+              "game",
+              "gsap",
+              "javascript",
+              "pixijs",
+              "tweening",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -812,12 +1209,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A multiplayer Node.js light gun shooter inspired on Doom",
+            "homepage": null,
             "id": 35839014,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-06-12T12:16:38Z",
+            "open_issues": 0,
             "owner": "matiasbeckerle",
             "repo": "doom-lgs",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "game",
+              "html",
+              "javascript",
+              "multiplayer",
+              "nodejs",
+              "pixijs",
+              "socket-io"
+            ]
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -828,12 +1238,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ragdoll rhythm game made for #GGJ17. Play in the browser right here:",
+            "homepage": "https://rockvomit.kranzky.com",
             "id": 79698566,
             "language": "JavaScript",
+            "license": "Unlicense",
             "last_commit": "2023-10-26T20:56:17Z",
+            "open_issues": 2,
             "owner": "rocket-hands",
             "repo": "rockvomit",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "game",
+              "ggj",
+              "ggj2017",
+              "pixijs",
+              "ragdoll-rhythm-game",
+              "vue2"
+            ]
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -844,12 +1266,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Railways game based on pixi.js and its plugins. All visual art is property of Russian Railways. Code is licensed under MIT.",
+            "homepage": null,
             "id": 42717260,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2015-11-03T22:14:32Z",
+            "open_issues": 0,
             "owner": "ivanpopelyshev",
             "repo": "railways",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -860,12 +1287,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tetris in JavaScript and PIXI.js",
+            "homepage": null,
             "id": 30349443,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2015-09-06T05:44:49Z",
+            "open_issues": 1,
             "owner": "nylira",
             "repo": "tetris",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -876,12 +1308,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My web game repository",
+            "homepage": "https://game.hyeon.me",
             "id": 77310129,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-04-02T15:27:41Z",
+            "open_issues": 3,
             "owner": "simnalamburt",
             "repo": "game.hyeon.me",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "game",
+              "html5",
+              "pixijs"
+            ]
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         },
@@ -892,12 +1333,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[WIP] 4X sandbox game with legend of Mountain and Sea Classics",
+            "homepage": null,
             "id": 64049469,
             "language": "JavaScript",
+            "license": "GPL-2.0",
             "last_commit": "2023-01-04T21:47:13Z",
+            "open_issues": 27,
             "owner": "legendofmountainsea",
             "repo": "LegendOfMountainSea",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "game",
+              "javascript-game",
+              "nodejs",
+              "nwjs",
+              "pixijs"
+            ]
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
         }
@@ -906,15 +1358,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:21:26.505Z",
+    "last_updated": "2026-08-29T04:40:50.455Z",
     "original_repository_info": {
       "archived": false,
+      "description": "My list of awesome pixi.js related parties",
+      "homepage": null,
       "id": 81791979,
       "language": null,
+      "license": null,
       "last_commit": "2023-10-08T19:58:39Z",
+      "open_issues": 5,
       "owner": "cursedcoder",
       "repo": "awesome-pixijs",
-      "stars": 776
+      "stars": 776,
+      "topics": [
+        "awesome-list",
+        "canvas",
+        "pixijs",
+        "rendering",
+        "webgl"
+      ]
     },
     "original_repository_sha": "7999481beab6bc97e10eb71d4d40717a130419dd",
     "enhanced_repository": "enhansome/enhansome-pixijs",
