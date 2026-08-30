@@ -309,7 +309,7 @@
             "id": 37883022,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T18:16:12Z",
+            "last_commit": "2026-08-30T15:53:55Z",
             "open_issues": 4,
             "owner": "bfanger",
             "repo": "pixi-inspector",
@@ -812,7 +812,7 @@
             "open_issues": 47,
             "owner": "kittykatattack",
             "repo": "hexi",
-            "stars": 560,
+            "stars": 561,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -1023,7 +1023,7 @@
             "open_issues": 62,
             "owner": "kittykatattack",
             "repo": "learningPixi",
-            "stars": 4416,
+            "stars": 4415,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -1125,7 +1125,7 @@
             "open_issues": 32,
             "owner": "bemusic",
             "repo": "bemuse",
-            "stars": 1241,
+            "stars": 1242,
             "topics": [
               "bms",
               "bmson",
@@ -1187,7 +1187,7 @@
             "open_issues": 14,
             "owner": "MattSurabian",
             "repo": "DuckHunt-JS",
-            "stars": 630,
+            "stars": 631,
             "topics": [
               "audio",
               "canvas",
@@ -1358,7 +1358,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T23:34:32.382Z",
+    "last_updated": "2026-08-30T23:47:43.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",

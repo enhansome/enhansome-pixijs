@@ -8,7 +8,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [github organization](https://github.com/pixijs).
 
-[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,093 | 🐛 344 | 🌐 TypeScript | 📅 2026-08-26.
+[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,097 | 🐛 344 | 🌐 TypeScript | 📅 2026-08-26.
 
 [pixijs.com](http://www.pixijs.com/) – official website.
 
@@ -56,7 +56,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 # Debug
 
-[pixi-inspector](https://github.com/bfanger/pixi-inspector) ⭐ 420 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-29 – awesome [plugin for chrome](https://chrome.google.com/webstore/detail/pixi-inspector/aamddddknhcagpehecnhphigffljadon), visually inspect and modify nodes in your scene graph.
+[pixi-inspector](https://github.com/bfanger/pixi-inspector) ⭐ 420 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-30 – awesome [plugin for chrome](https://chrome.google.com/webstore/detail/pixi-inspector/aamddddknhcagpehecnhphigffljadon), visually inspect and modify nodes in your scene graph.
 
 [pixi-console](https://github.com/jkanchelov/pixi-console) ⭐ 43 | 🐛 12 | 🌐 TypeScript | 📅 2026-04-25 - adds a container that shows console log. Useful on mobile devices.
 
@@ -114,7 +114,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [chocolatier](https://github.com/alexkehayias/chocolatier) ⚠️ Archived – ClojureScript game/engine using Pixi.js for rendering.
 
-[hexi](https://github.com/kittykatattack/hexi) ⭐ 560 | 🐛 47 | 🌐 JavaScript | 📅 2019-03-23 – minimalistic game engine with pixi rendering.
+[hexi](https://github.com/kittykatattack/hexi) ⭐ 561 | 🐛 47 | 🌐 JavaScript | 📅 2019-03-23 – minimalistic game engine with pixi rendering.
 
 [pixi-engine](https://github.com/gamestdio/pixi-engine) ⭐ 77 | 🐛 2 | 🌐 TypeScript | 📅 2018-05-22 - Provides a minimal engine-like structure for developing games with PixiJS
 
@@ -140,7 +140,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [kittenattack](https://github.com/kittykatattack) – check that person github repositories, most of them are incredibly suited for learning.
 
-[learningPixi](https://github.com/kittykatattack/learningPixi) ⭐ 4,416 | 🐛 62 | 📅 2021-09-11 – definitive guide to game development with pixi.
+[learningPixi](https://github.com/kittykatattack/learningPixi) ⭐ 4,415 | 🐛 62 | 📅 2021-09-11 – definitive guide to game development with pixi.
 
 # Forks
 
@@ -158,11 +158,11 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [polyball](https://github.com/polyball/polyball) ⭐ 11 | 🐛 16 | 🌐 JavaScript | 📅 2016-05-26 – fast, multiplayer, physics-driven tennis in two dimensions..
 
-[bemuse](https://github.com/bemusic/bemuse) ⭐ 1,241 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-28 – web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
+[bemuse](https://github.com/bemusic/bemuse) ⭐ 1,242 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-28 – web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
 
 [breakout](https://github.com/Bonnee/breakthefuckout) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2016-10-22 – breakout game made in JavaScript and Pixi.js.
 
-[duckhunt](https://github.com/MattSurabian/DuckHunt-JS) ⭐ 630 | 🐛 14 | 🌐 JavaScript | 📅 2026-06-30 – DuckHunt ported to JS and HTML5.
+[duckhunt](https://github.com/MattSurabian/DuckHunt-JS) ⭐ 631 | 🐛 14 | 🌐 JavaScript | 📅 2026-06-30 – DuckHunt ported to JS and HTML5.
 
 [doom-lgs](https://github.com/matiasbeckerle/doom-lgs) ⭐ 40 | 🐛 0 | 🌐 JavaScript | 📅 2015-06-12 – a multiplayer Node.js light gun shooter inspired on Doom.
 
@@ -178,4 +178,4 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
