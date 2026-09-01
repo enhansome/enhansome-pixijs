@@ -331,7 +331,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-04-25T12:47:40Z",
-            "open_issues": 12,
+            "open_issues": 11,
             "owner": "yordan-kanchelov",
             "repo": "pixi-console",
             "stars": 43,
@@ -621,7 +621,7 @@
             "open_issues": 124,
             "owner": "dataarts",
             "repo": "dat.gui",
-            "stars": 7725,
+            "stars": 7726,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -679,7 +679,7 @@
             "open_issues": 53,
             "owner": "pixijs",
             "repo": "sound",
-            "stars": 476,
+            "stars": 477,
             "topics": [
               "javascript-library",
               "pixi",
@@ -1187,7 +1187,7 @@
             "open_issues": 14,
             "owner": "MattSurabian",
             "repo": "DuckHunt-JS",
-            "stars": 631,
+            "stars": 632,
             "topics": [
               "audio",
               "canvas",
@@ -1358,7 +1358,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T00:45:44.268Z",
+    "last_updated": "2026-09-01T23:32:24.169Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
