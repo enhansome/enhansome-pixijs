@@ -331,7 +331,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-04-25T12:47:40Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "yordan-kanchelov",
             "repo": "pixi-console",
             "stars": 43,
@@ -967,7 +967,7 @@
             "open_issues": 44,
             "owner": "pixijs",
             "repo": "pixi-react",
-            "stars": 2885,
+            "stars": 2883,
             "topics": [
               "pixi",
               "react",
@@ -1358,7 +1358,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T23:32:24.169Z",
+    "last_updated": "2026-09-02T23:32:01.931Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
