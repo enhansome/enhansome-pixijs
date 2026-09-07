@@ -621,7 +621,7 @@
             "open_issues": 124,
             "owner": "dataarts",
             "repo": "dat.gui",
-            "stars": 7726,
+            "stars": 7727,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -1125,7 +1125,7 @@
             "open_issues": 32,
             "owner": "bemusic",
             "repo": "bemuse",
-            "stars": 1242,
+            "stars": 1243,
             "topics": [
               "bms",
               "bmson",
@@ -1358,7 +1358,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T23:05:45.766Z",
+    "last_updated": "2026-09-07T23:43:58.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
