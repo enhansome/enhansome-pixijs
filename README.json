@@ -444,7 +444,7 @@
             "open_issues": 3,
             "owner": "avgjs",
             "repo": "pixi-live2d",
-            "stars": 683,
+            "stars": 682,
             "topics": [
               "live2d",
               "pixi",
@@ -734,7 +734,7 @@
             "open_issues": 19,
             "owner": "pixijs-userland",
             "repo": "particle-emitter",
-            "stars": 852,
+            "stars": 853,
             "topics": [
               "javascript-library",
               "particles",
@@ -1125,7 +1125,7 @@
             "open_issues": 32,
             "owner": "bemusic",
             "repo": "bemuse",
-            "stars": 1243,
+            "stars": 1246,
             "topics": [
               "bms",
               "bmson",
@@ -1358,7 +1358,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T23:43:58.656Z",
+    "last_updated": "2026-09-08T23:38:09.663Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",

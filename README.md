@@ -8,7 +8,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [github organization](https://github.com/pixijs).
 
-[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,132 | 🐛 345 | 🌐 TypeScript | 📅 2026-09-07.
+[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,138 | 🐛 343 | 🌐 TypeScript | 📅 2026-09-08.
 
 [pixijs.com](http://www.pixijs.com/) – official website.
 
@@ -106,7 +106,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 # Particles
 
-[pixi-particles](https://github.com/pixijs/pixi-particles) ⭐ 852 | 🐛 19 | 🌐 TypeScript | 📅 2026-01-09 – official particles plugin.
+[pixi-particles](https://github.com/pixijs/pixi-particles) ⭐ 853 | 🐛 19 | 🌐 TypeScript | 📅 2026-01-09 – official particles plugin.
 
 [pixi-particles-editor](https://github.com/pixijs/pixi-particles-editor) ⭐ 75 | 🐛 11 | 🌐 JavaScript | 📅 2024-12-21 – see online [demo](http://pixijs.github.io/pixi-particles-editor/).
 
@@ -158,7 +158,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [polyball](https://github.com/polyball/polyball) ⭐ 11 | 🐛 16 | 🌐 JavaScript | 📅 2016-05-26 – fast, multiplayer, physics-driven tennis in two dimensions..
 
-[bemuse](https://github.com/bemusic/bemuse) ⭐ 1,243 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-28 – web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
+[bemuse](https://github.com/bemusic/bemuse) ⭐ 1,246 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-28 – web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
 
 [breakout](https://github.com/Bonnee/breakthefuckout) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2016-10-22 – breakout game made in JavaScript and Pixi.js.
 
@@ -178,4 +178,4 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
