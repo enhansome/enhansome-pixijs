@@ -8,7 +8,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [github organization](https://github.com/pixijs).
 
-[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,138 | 🐛 343 | 🌐 TypeScript | 📅 2026-09-08.
+[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,142 | 🐛 343 | 🌐 TypeScript | 📅 2026-09-08.
 
 [pixijs.com](http://www.pixijs.com/) – official website.
 
@@ -122,13 +122,13 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [pixi-haxe](https://github.com/pixijs/pixi-haxe) ⚠️ Archived – externs for [haxe](haxe.org) compiler.
 
-[react-pixi](https://github.com/Izzimach/react-pixi) ⭐ 745 | 🐛 10 | 🌐 JavaScript | 📅 2018-10-25 – integration for facebook's framework.
+[react-pixi](https://github.com/Izzimach/react-pixi) ⭐ 744 | 🐛 10 | 🌐 JavaScript | 📅 2018-10-25 – integration for facebook's framework.
 
 [pixi.scala.js](https://github.com/scalajs-io/pixijs) ⭐ 7 | 🐛 0 | 🌐 Scala | 📅 2019-06-17 – externs for scala.js compiler.
 
 [react-pixi-fiber](https://github.com/michalochman/react-pixi-fiber) ⭐ 880 | 🐛 3 | 🌐 JavaScript | 📅 2025-03-18 – integration with react.js framework.
 
-[react-pixi](https://github.com/inlet/react-pixi) ⭐ 2,883 | 🐛 44 | 🌐 TypeScript | 📅 2026-01-16 – another react.js integration with custom renderer, reconcilation, etc.
+[react-pixi](https://github.com/inlet/react-pixi) ⭐ 2,882 | 🐛 44 | 🌐 TypeScript | 📅 2026-01-16 – another react.js integration with custom renderer, reconcilation, etc.
 
 [RobotlegsJS-Pixi](https://github.com/RobotlegsJS/RobotlegsJS-Pixi) ⭐ 25 | 🐛 2 | 🌐 TypeScript | 📅 2021-06-11 – RobotlegsJS framework integration with PixiJS.
 
@@ -178,4 +178,4 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
