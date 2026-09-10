@@ -621,7 +621,7 @@
             "open_issues": 124,
             "owner": "dataarts",
             "repo": "dat.gui",
-            "stars": 7727,
+            "stars": 7726,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -1077,7 +1077,7 @@
             "open_issues": 33,
             "owner": "krzysztof-o",
             "repo": "spritesheet.js",
-            "stars": 568,
+            "stars": 567,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -1358,7 +1358,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T23:28:48.828Z",
+    "last_updated": "2026-09-10T23:22:03.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
