@@ -8,7 +8,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [github organization](https://github.com/pixijs).
 
-[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,153 | 🐛 346 | 🌐 TypeScript | 📅 2026-09-13.
+[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,160 | 🐛 344 | 🌐 TypeScript | 📅 2026-09-14.
 
 [pixijs.com](http://www.pixijs.com/) – official website.
 
@@ -44,9 +44,9 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [pixi-heaven](https://github.com/gameofbombs/pixi-heaven) ⭐ 117 | 🐛 15 | 🌐 TypeScript | 📅 2024-12-20 – runtime atlas, double tint for sprites, fastest glsl-calculated sprite masks.
 
-[pixi-viewport](https://github.com/davidfig/pixi-viewport) ⭐ 1,221 | 🐛 144 | 🌐 TypeScript | 📅 2025-02-03 – a highly configurable viewport/2D camera designed to work with pixi.js.
+[pixi-viewport](https://github.com/davidfig/pixi-viewport) ⭐ 1,222 | 🐛 144 | 🌐 TypeScript | 📅 2025-02-03 – a highly configurable viewport/2D camera designed to work with pixi.js.
 
-[canvas-latex](https://github.com/CurriculumAssociates/canvas-latex) ⚠️ Archived – render latex formulas in pixi.js.
+[canvas-latex](https://github.com/CurriculumAssociates/canvas-latex) – render latex formulas in pixi.js.
 
 [yy-rendersheet](https://github.com/davidfig/rendersheet) ⭐ 11 | 🐛 11 | 🌐 JavaScript | 📅 2022-12-04 - generate on-the-fly spritesheets for pixi.js
 
@@ -158,7 +158,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [polyball](https://github.com/polyball/polyball) ⭐ 11 | 🐛 16 | 🌐 JavaScript | 📅 2016-05-26 – fast, multiplayer, physics-driven tennis in two dimensions..
 
-[bemuse](https://github.com/bemusic/bemuse) ⭐ 1,246 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-28 – web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
+[bemuse](https://github.com/bemusic/bemuse) ⭐ 1,247 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-28 – web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
 
 [breakout](https://github.com/Bonnee/breakthefuckout) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2016-10-22 – breakout game made in JavaScript and Pixi.js.
 
@@ -178,4 +178,4 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._

@@ -227,7 +227,7 @@
             "open_issues": 144,
             "owner": "pixijs-userland",
             "repo": "pixi-viewport",
-            "stars": 1221,
+            "stars": 1222,
             "topics": [
               "2d-camera",
               "bounce",
@@ -235,37 +235,6 @@
               "touch",
               "viewport",
               "zoom"
-            ]
-          },
-          "first_seen": "2026-08-28T05:35:51.874Z"
-        },
-        {
-          "node_type": "item",
-          "title": "canvas-latex",
-          "description": "render latex formulas in pixi.js.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Bringing quick and beautiful math-typesetting to HTML5's canvas.",
-            "homepage": null,
-            "id": 149770936,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-02-25T18:32:15Z",
-            "open_issues": 17,
-            "owner": "CurriculumAssociates",
-            "repo": "canvas-latex",
-            "stars": 102,
-            "topics": [
-              "canvas",
-              "createjs",
-              "html5",
-              "javascript",
-              "katex",
-              "latex",
-              "math",
-              "mathml",
-              "pixijs"
             ]
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -1125,7 +1094,7 @@
             "open_issues": 32,
             "owner": "bemusic",
             "repo": "bemuse",
-            "stars": 1246,
+            "stars": 1247,
             "topics": [
               "bms",
               "bmson",
@@ -1358,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T23:26:54.733Z",
+    "last_updated": "2026-09-14T23:58:21.494Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
