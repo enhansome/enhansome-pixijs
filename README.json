@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "avgjs",
             "repo": "pixi-richtext",
-            "stars": 80,
+            "stars": 79,
             "topics": [
               "avgjs",
               "pixi",
@@ -439,7 +439,7 @@
             "open_issues": 13,
             "owner": "Nazariglez",
             "repo": "pixi-tween",
-            "stars": 98,
+            "stars": 97,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -645,7 +645,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2024-09-27T05:27:34Z",
-            "open_issues": 54,
+            "open_issues": 55,
             "owner": "pixijs",
             "repo": "sound",
             "stars": 477,
@@ -781,7 +781,7 @@
             "open_issues": 47,
             "owner": "kittykatattack",
             "repo": "hexi",
-            "stars": 561,
+            "stars": 560,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -992,7 +992,7 @@
             "open_issues": 62,
             "owner": "kittykatattack",
             "repo": "learningPixi",
-            "stars": 4415,
+            "stars": 4414,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -1046,7 +1046,7 @@
             "open_issues": 33,
             "owner": "krzysztof-o",
             "repo": "spritesheet.js",
-            "stars": 567,
+            "stars": 566,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T23:58:21.494Z",
+    "last_updated": "2026-09-15T23:39:35.453Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",

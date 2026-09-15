@@ -8,7 +8,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [github organization](https://github.com/pixijs).
 
-[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,160 | 🐛 344 | 🌐 TypeScript | 📅 2026-09-14.
+[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,167 | 🐛 340 | 🌐 TypeScript | 📅 2026-09-15.
 
 [pixijs.com](http://www.pixijs.com/) – official website.
 
@@ -100,7 +100,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 # Audio
 
-[pixi-sound](https://github.com/pixijs/pixi-sound) ⭐ 477 | 🐛 54 | 🌐 TypeScript | 📅 2024-09-27 – official WebAudio API playback without any Flash shims or HTML Audio fallback.
+[pixi-sound](https://github.com/pixijs/pixi-sound) ⭐ 477 | 🐛 55 | 🌐 TypeScript | 📅 2024-09-27 – official WebAudio API playback without any Flash shims or HTML Audio fallback.
 
 [sound.js](https://github.com/kittykatattack/sound.js) ⭐ 318 | 🐛 17 | 🌐 JavaScript | 📅 2024-04-25 – a micro-library to load, play and generate sound effects and music for games and interactive applications.
 
@@ -114,7 +114,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [chocolatier](https://github.com/alexkehayias/chocolatier) ⚠️ Archived – ClojureScript game/engine using Pixi.js for rendering.
 
-[hexi](https://github.com/kittykatattack/hexi) ⭐ 561 | 🐛 47 | 🌐 JavaScript | 📅 2019-03-23 – minimalistic game engine with pixi rendering.
+[hexi](https://github.com/kittykatattack/hexi) ⭐ 560 | 🐛 47 | 🌐 JavaScript | 📅 2019-03-23 – minimalistic game engine with pixi rendering.
 
 [pixi-engine](https://github.com/gamestdio/pixi-engine) ⭐ 77 | 🐛 2 | 🌐 TypeScript | 📅 2018-05-22 - Provides a minimal engine-like structure for developing games with PixiJS
 
@@ -140,7 +140,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [kittenattack](https://github.com/kittykatattack) – check that person github repositories, most of them are incredibly suited for learning.
 
-[learningPixi](https://github.com/kittykatattack/learningPixi) ⭐ 4,415 | 🐛 62 | 📅 2021-09-11 – definitive guide to game development with pixi.
+[learningPixi](https://github.com/kittykatattack/learningPixi) ⭐ 4,414 | 🐛 62 | 📅 2021-09-11 – definitive guide to game development with pixi.
 
 # Forks
 
@@ -150,7 +150,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [TexturePacker](https://www.codeandweb.com/texturepacker) – sprite sheet packer for PixiJS with graphical user interface and command line. Optimizes sprite sheets for best render quality and low memory usage.
 
-[spritesheet.js](https://github.com/krzysztof-o/spritesheet.js) ⭐ 567 | 🐛 33 | 🌐 JavaScript | 📅 2026-03-04 – is command-line spritesheet (a.k.a. Texture Atlas) generator written in node.js. Support export to pixi.js
+[spritesheet.js](https://github.com/krzysztof-o/spritesheet.js) ⭐ 566 | 🐛 33 | 🌐 JavaScript | 📅 2026-03-04 – is command-line spritesheet (a.k.a. Texture Atlas) generator written in node.js. Support export to pixi.js
 
 [SpriteIlluminator](https://www.codeandweb.com/spriteilluminator) – normal map generator for sprites. Allows creating awesome dynamic light effects.
 
@@ -178,4 +178,4 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
