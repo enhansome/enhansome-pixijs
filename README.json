@@ -1094,7 +1094,7 @@
             "open_issues": 32,
             "owner": "bemusic",
             "repo": "bemuse",
-            "stars": 1247,
+            "stars": 1248,
             "topics": [
               "bms",
               "bmson",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T23:47:43.706Z",
+    "last_updated": "2026-09-17T23:38:35.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
