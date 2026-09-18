@@ -227,7 +227,7 @@
             "open_issues": 144,
             "owner": "pixijs-userland",
             "repo": "pixi-viewport",
-            "stars": 1222,
+            "stars": 1223,
             "topics": [
               "2d-camera",
               "bounce",
@@ -361,7 +361,7 @@
             "open_issues": 195,
             "owner": "pixijs-userland",
             "repo": "spine",
-            "stars": 626,
+            "stars": 627,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -590,7 +590,7 @@
             "open_issues": 124,
             "owner": "dataarts",
             "repo": "dat.gui",
-            "stars": 7725,
+            "stars": 7726,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -936,7 +936,7 @@
             "open_issues": 44,
             "owner": "pixijs",
             "repo": "pixi-react",
-            "stars": 2882,
+            "stars": 2884,
             "topics": [
               "pixi",
               "react",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T23:38:35.796Z",
+    "last_updated": "2026-09-18T23:33:06.843Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
