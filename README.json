@@ -936,7 +936,7 @@
             "open_issues": 44,
             "owner": "pixijs",
             "repo": "pixi-react",
-            "stars": 2884,
+            "stars": 2883,
             "topics": [
               "pixi",
               "react",
@@ -992,7 +992,7 @@
             "open_issues": 62,
             "owner": "kittykatattack",
             "repo": "learningPixi",
-            "stars": 4413,
+            "stars": 4412,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T23:33:06.843Z",
+    "last_updated": "2026-09-19T23:28:25.355Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
