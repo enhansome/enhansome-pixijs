@@ -590,7 +590,7 @@
             "open_issues": 124,
             "owner": "dataarts",
             "repo": "dat.gui",
-            "stars": 7726,
+            "stars": 7728,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T23:28:25.355Z",
+    "last_updated": "2026-09-20T23:28:23.422Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
