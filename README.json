@@ -278,11 +278,11 @@
             "id": 37883022,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T15:53:55Z",
+            "last_commit": "2026-09-22T12:07:31Z",
             "open_issues": 4,
             "owner": "bfanger",
             "repo": "pixi-inspector",
-            "stars": 420,
+            "stars": 421,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T00:15:20.985Z",
+    "last_updated": "2026-09-22T23:46:55.912Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
@@ -1339,7 +1339,7 @@
       "open_issues": 5,
       "owner": "cursedcoder",
       "repo": "awesome-pixijs",
-      "stars": 777,
+      "stars": 778,
       "topics": [
         "awesome-list",
         "canvas",
