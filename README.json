@@ -299,8 +299,8 @@
             "id": 119281621,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-04-25T12:47:40Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-24T22:52:47Z",
+            "open_issues": 2,
             "owner": "yordan-kanchelov",
             "repo": "pixi-console",
             "stars": 43,
@@ -590,7 +590,7 @@
             "open_issues": 124,
             "owner": "dataarts",
             "repo": "dat.gui",
-            "stars": 7728,
+            "stars": 7727,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T23:55:13.590Z",
+    "last_updated": "2026-09-24T23:58:36.217Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
