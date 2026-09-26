@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "avgjs",
             "repo": "pixi-richtext",
-            "stars": 79,
+            "stars": 78,
             "topics": [
               "avgjs",
               "pixi",
@@ -299,7 +299,7 @@
             "id": 119281621,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T22:52:47Z",
+            "last_commit": "2026-09-25T06:42:39Z",
             "open_issues": 2,
             "owner": "yordan-kanchelov",
             "repo": "pixi-console",
@@ -590,7 +590,7 @@
             "open_issues": 124,
             "owner": "dataarts",
             "repo": "dat.gui",
-            "stars": 7727,
+            "stars": 7728,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -992,7 +992,7 @@
             "open_issues": 62,
             "owner": "kittykatattack",
             "repo": "learningPixi",
-            "stars": 4412,
+            "stars": 4411,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T23:58:36.217Z",
+    "last_updated": "2026-09-26T00:07:41.678Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
