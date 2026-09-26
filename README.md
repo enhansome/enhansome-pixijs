@@ -8,7 +8,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [github organization](https://github.com/pixijs).
 
-[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,227 | 🐛 339 | 🌐 TypeScript | 📅 2026-09-25.
+[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,229 | 🐛 341 | 🌐 TypeScript | 📅 2026-09-25.
 
 [pixijs.com](http://www.pixijs.com/) – official website.
 
@@ -82,7 +82,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 # Filters, shaders, vfx
 
-[pixi-filters](https://github.com/pixijs/pixi-filters) ⭐ 1,134 | 🐛 49 | 🌐 TypeScript | 📅 2026-02-13 – some official filters.
+[pixi-filters](https://github.com/pixijs/pixi-filters) ⭐ 1,135 | 🐛 49 | 🌐 TypeScript | 📅 2026-02-13 – some official filters.
 
 [neutrinoparticles.pixi](https://www.npmjs.com/package/neutrinoparticles.pixi) - allows you to render NeutrinoParticles effects such as water stream
 
@@ -126,7 +126,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [pixi.scala.js](https://github.com/scalajs-io/pixijs) ⭐ 7 | 🐛 0 | 🌐 Scala | 📅 2019-06-17 – externs for scala.js compiler.
 
-[react-pixi-fiber](https://github.com/michalochman/react-pixi-fiber) ⭐ 880 | 🐛 3 | 🌐 JavaScript | 📅 2025-03-18 – integration with react.js framework.
+[react-pixi-fiber](https://github.com/michalochman/react-pixi-fiber) ⭐ 880 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-26 – integration with react.js framework.
 
 [react-pixi](https://github.com/inlet/react-pixi) ⭐ 2,883 | 🐛 44 | 🌐 TypeScript | 📅 2026-01-16 – another react.js integration with custom renderer, reconcilation, etc.
 
@@ -162,7 +162,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [breakout](https://github.com/Bonnee/breakthefuckout) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2016-10-22 – breakout game made in JavaScript and Pixi.js.
 
-[duckhunt](https://github.com/MattSurabian/DuckHunt-JS) ⭐ 631 | 🐛 14 | 🌐 JavaScript | 📅 2026-06-30 – DuckHunt ported to JS and HTML5.
+[duckhunt](https://github.com/MattSurabian/DuckHunt-JS) ⭐ 632 | 🐛 14 | 🌐 JavaScript | 📅 2026-06-30 – DuckHunt ported to JS and HTML5.
 
 [doom-lgs](https://github.com/matiasbeckerle/doom-lgs) ⭐ 40 | 🐛 0 | 🌐 JavaScript | 📅 2015-06-12 – a multiplayer Node.js light gun shooter inspired on Doom.
 
