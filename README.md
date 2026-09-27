@@ -8,7 +8,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [github organization](https://github.com/pixijs).
 
-[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,229 | 🐛 341 | 🌐 TypeScript | 📅 2026-09-25.
+[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,232 | 🐛 351 | 🌐 TypeScript | 📅 2026-09-25.
 
 [pixijs.com](http://www.pixijs.com/) – official website.
 
@@ -64,7 +64,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 # Animate
 
-[pixi-spine](https://github.com/pixijs/pixi-spine) ⭐ 627 | 🐛 195 | 🌐 TypeScript | 📅 2025-03-24 – port of official [spine](http://esotericsoftware.com/)-ts runtime to pixi.
+[pixi-spine](https://github.com/pixijs/pixi-spine) ⭐ 626 | 🐛 195 | 🌐 TypeScript | 📅 2025-03-24 – port of official [spine](http://esotericsoftware.com/)-ts runtime to pixi.
 
 [pixi-action](https://github.com/hustcc/pixi-action) ⭐ 68 | 🐛 2 | 🌐 HTML | 📅 2017-12-27 – animations in Cocos2d-x style.
 
@@ -100,7 +100,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 # Audio
 
-[pixi-sound](https://github.com/pixijs/pixi-sound) ⭐ 478 | 🐛 55 | 🌐 TypeScript | 📅 2024-09-27 – official WebAudio API playback without any Flash shims or HTML Audio fallback.
+[pixi-sound](https://github.com/pixijs/pixi-sound) ⭐ 477 | 🐛 55 | 🌐 TypeScript | 📅 2024-09-27 – official WebAudio API playback without any Flash shims or HTML Audio fallback.
 
 [sound.js](https://github.com/kittykatattack/sound.js) ⭐ 318 | 🐛 17 | 🌐 JavaScript | 📅 2024-04-25 – a micro-library to load, play and generate sound effects and music for games and interactive applications.
 
@@ -178,4 +178,4 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
