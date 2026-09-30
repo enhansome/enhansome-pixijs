@@ -8,7 +8,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [github organization](https://github.com/pixijs).
 
-[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,242 | 🐛 357 | 🌐 TypeScript | 📅 2026-09-28.
+[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,243 | 🐛 367 | 🌐 TypeScript | 📅 2026-09-29.
 
 [pixijs.com](http://www.pixijs.com/) – official website.
 
@@ -94,7 +94,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [gown.js](https://github.com/GreyRook/gown.js) ⭐ 226 | 🐛 46 | 🌐 JavaScript | 📅 2023-09-29 – UI system for pixi.js inspired by [feathers-ui](https://feathersui.com/).
 
-[dat.gui](https://github.com/dataarts/dat.gui) ⭐ 7,728 | 🐛 124 | 🌐 JavaScript | 📅 2026-06-21 – DOM-based GUI can be used as dev tools on top of pixi.
+[dat.gui](https://github.com/dataarts/dat.gui) ⭐ 7,729 | 🐛 124 | 🌐 JavaScript | 📅 2026-06-21 – DOM-based GUI can be used as dev tools on top of pixi.
 
 [heatmap](https://github.com/nconrad/heatmap) ⭐ 18 | 🐛 20 | 🌐 JavaScript | 📅 2023-01-14 – WebGL Heatmap Viewer for Bioinformatics and Big Data.
 
@@ -126,9 +126,9 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [pixi.scala.js](https://github.com/scalajs-io/pixijs) ⭐ 7 | 🐛 0 | 🌐 Scala | 📅 2019-06-17 – externs for scala.js compiler.
 
-[react-pixi-fiber](https://github.com/michalochman/react-pixi-fiber) ⭐ 880 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-28 – integration with react.js framework.
+[react-pixi-fiber](https://github.com/michalochman/react-pixi-fiber) ⭐ 880 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-29 – integration with react.js framework.
 
-[react-pixi](https://github.com/inlet/react-pixi) ⭐ 2,883 | 🐛 44 | 🌐 TypeScript | 📅 2026-01-16 – another react.js integration with custom renderer, reconcilation, etc.
+[react-pixi](https://github.com/inlet/react-pixi) ⭐ 2,884 | 🐛 44 | 🌐 TypeScript | 📅 2026-01-16 – another react.js integration with custom renderer, reconcilation, etc.
 
 [RobotlegsJS-Pixi](https://github.com/RobotlegsJS/RobotlegsJS-Pixi) ⭐ 25 | 🐛 2 | 🌐 TypeScript | 📅 2021-06-11 – RobotlegsJS framework integration with PixiJS.
 
@@ -178,4 +178,4 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
