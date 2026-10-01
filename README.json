@@ -299,8 +299,8 @@
             "id": 119281621,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T06:42:39Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-30T12:04:47Z",
+            "open_issues": 1,
             "owner": "yordan-kanchelov",
             "repo": "pixi-console",
             "stars": 43,
@@ -905,11 +905,11 @@
             "id": 116292940,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T11:08:42Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-30T20:33:33Z",
+            "open_issues": 3,
             "owner": "michalochman",
             "repo": "react-pixi-fiber",
-            "stars": 880,
+            "stars": 881,
             "topics": [
               "pixi",
               "pixijs",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T00:44:12.811Z",
+    "last_updated": "2026-10-01T00:48:00.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
