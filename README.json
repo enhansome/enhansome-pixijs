@@ -590,7 +590,7 @@
             "open_issues": 124,
             "owner": "dataarts",
             "repo": "dat.gui",
-            "stars": 7729,
+            "stars": 7730,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -905,8 +905,8 @@
             "id": 116292940,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T20:33:33Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-01T09:24:26Z",
+            "open_issues": 0,
             "owner": "michalochman",
             "repo": "react-pixi-fiber",
             "stars": 881,
@@ -936,7 +936,7 @@
             "open_issues": 44,
             "owner": "pixijs",
             "repo": "pixi-react",
-            "stars": 2884,
+            "stars": 2885,
             "topics": [
               "pixi",
               "react",
@@ -992,7 +992,7 @@
             "open_issues": 62,
             "owner": "kittykatattack",
             "repo": "learningPixi",
-            "stars": 4411,
+            "stars": 4410,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T00:48:00.321Z",
+    "last_updated": "2026-10-02T01:03:40.283Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
