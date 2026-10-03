@@ -1273,7 +1273,7 @@
         {
           "node_type": "item",
           "title": "wbwwb-ko",
-          "description": null,
+          "description": "simnalamburt/game.hyeon.me",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:42:03.042Z",
+    "last_updated": "2026-10-03T05:00:34.376Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
