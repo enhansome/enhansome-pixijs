@@ -361,7 +361,7 @@
             "open_issues": 195,
             "owner": "pixijs-userland",
             "repo": "spine",
-            "stars": 626,
+            "stars": 627,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T00:00:23.970Z",
+    "last_updated": "2026-10-05T00:07:58.240Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
