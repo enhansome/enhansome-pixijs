@@ -8,7 +8,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [github organization](https://github.com/pixijs).
 
-[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,293 | 🐛 380 | 🌐 TypeScript | 📅 2026-10-05.
+[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,294 | 🐛 376 | 🌐 TypeScript | 📅 2026-10-06.
 
 [pixijs.com](http://www.pixijs.com/) – official website.
 
@@ -82,7 +82,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 # Filters, shaders, vfx
 
-[pixi-filters](https://github.com/pixijs/pixi-filters) ⭐ 1,136 | 🐛 49 | 🌐 TypeScript | 📅 2026-02-13 – some official filters.
+[pixi-filters](https://github.com/pixijs/pixi-filters) ⭐ 1,137 | 🐛 49 | 🌐 TypeScript | 📅 2026-02-13 – some official filters.
 
 [neutrinoparticles.pixi](https://www.npmjs.com/package/neutrinoparticles.pixi) - allows you to render NeutrinoParticles effects such as water stream
 
@@ -94,7 +94,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [gown.js](https://github.com/GreyRook/gown.js) ⭐ 226 | 🐛 46 | 🌐 JavaScript | 📅 2023-09-29 – UI system for pixi.js inspired by [feathers-ui](https://feathersui.com/).
 
-[dat.gui](https://github.com/dataarts/dat.gui) ⭐ 7,731 | 🐛 124 | 🌐 JavaScript | 📅 2026-06-21 – DOM-based GUI can be used as dev tools on top of pixi.
+[dat.gui](https://github.com/dataarts/dat.gui) ⭐ 7,732 | 🐛 124 | 🌐 JavaScript | 📅 2026-06-21 – DOM-based GUI can be used as dev tools on top of pixi.
 
 [heatmap](https://github.com/nconrad/heatmap) ⭐ 18 | 🐛 20 | 🌐 JavaScript | 📅 2023-01-14 – WebGL Heatmap Viewer for Bioinformatics and Big Data.
 
@@ -106,7 +106,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 # Particles
 
-[pixi-particles](https://github.com/pixijs/pixi-particles) ⭐ 852 | 🐛 19 | 🌐 TypeScript | 📅 2026-01-09 – official particles plugin.
+[pixi-particles](https://github.com/pixijs/pixi-particles) ⭐ 853 | 🐛 19 | 🌐 TypeScript | 📅 2026-01-09 – official particles plugin.
 
 [pixi-particles-editor](https://github.com/pixijs/pixi-particles-editor) ⭐ 75 | 🐛 11 | 🌐 JavaScript | 📅 2024-12-21 – see online [demo](http://pixijs.github.io/pixi-particles-editor/).
 

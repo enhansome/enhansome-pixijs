@@ -590,7 +590,7 @@
             "open_issues": 124,
             "owner": "dataarts",
             "repo": "dat.gui",
-            "stars": 7731,
+            "stars": 7732,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -703,7 +703,7 @@
             "open_issues": 19,
             "owner": "pixijs-userland",
             "repo": "particle-emitter",
-            "stars": 852,
+            "stars": 853,
             "topics": [
               "javascript-library",
               "particles",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T01:51:43.667Z",
+    "last_updated": "2026-10-06T10:17:40.082Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
