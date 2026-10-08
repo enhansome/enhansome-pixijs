@@ -8,7 +8,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [github organization](https://github.com/pixijs).
 
-[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,294 | 🐛 378 | 🌐 TypeScript | 📅 2026-10-06.
+[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,310 | 🐛 374 | 🌐 TypeScript | 📅 2026-10-07.
 
 [pixijs.com](http://www.pixijs.com/) – official website.
 
@@ -58,7 +58,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [pixi-inspector](https://github.com/bfanger/pixi-inspector) ⭐ 421 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-22 – awesome [plugin for chrome](https://chrome.google.com/webstore/detail/pixi-inspector/aamddddknhcagpehecnhphigffljadon), visually inspect and modify nodes in your scene graph.
 
-[pixi-console](https://github.com/jkanchelov/pixi-console) ⭐ 43 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-30 - adds a container that shows console log. Useful on mobile devices.
+[pixi-console](https://github.com/jkanchelov/pixi-console) ⭐ 43 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-07 - adds a container that shows console log. Useful on mobile devices.
 
 [gstatsjs](https://github.com/eXponenta/gstatsjs) ⚠️ Archived - shows several texture-related metrics, like drawcalls. Works with Pixi, Phaser, can be integrated in custom renderers.
 
@@ -82,7 +82,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 # Filters, shaders, vfx
 
-[pixi-filters](https://github.com/pixijs/pixi-filters) ⭐ 1,137 | 🐛 49 | 🌐 TypeScript | 📅 2026-02-13 – some official filters.
+[pixi-filters](https://github.com/pixijs/pixi-filters) ⭐ 1,138 | 🐛 49 | 🌐 TypeScript | 📅 2026-02-13 – some official filters.
 
 [neutrinoparticles.pixi](https://www.npmjs.com/package/neutrinoparticles.pixi) - allows you to render NeutrinoParticles effects such as water stream
 
@@ -128,7 +128,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [react-pixi-fiber](https://github.com/michalochman/react-pixi-fiber) ⭐ 881 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-02 – integration with react.js framework.
 
-[react-pixi](https://github.com/inlet/react-pixi) ⭐ 2,885 | 🐛 44 | 🌐 TypeScript | 📅 2026-01-16 – another react.js integration with custom renderer, reconcilation, etc.
+[react-pixi](https://github.com/inlet/react-pixi) ⭐ 2,886 | 🐛 44 | 🌐 TypeScript | 📅 2026-01-16 – another react.js integration with custom renderer, reconcilation, etc.
 
 [RobotlegsJS-Pixi](https://github.com/RobotlegsJS/RobotlegsJS-Pixi) ⭐ 25 | 🐛 2 | 🌐 TypeScript | 📅 2021-06-11 – RobotlegsJS framework integration with PixiJS.
 
@@ -158,11 +158,11 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [polyball](https://github.com/polyball/polyball) ⭐ 11 | 🐛 16 | 🌐 JavaScript | 📅 2016-05-26 – fast, multiplayer, physics-driven tennis in two dimensions..
 
-[bemuse](https://github.com/bemusic/bemuse) ⭐ 1,249 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-28 – web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
+[bemuse](https://github.com/bemusic/bemuse) ⭐ 1,250 | 🐛 34 | 🌐 TypeScript | 📅 2026-10-07 – web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
 
 [breakout](https://github.com/Bonnee/breakthefuckout) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2016-10-22 – breakout game made in JavaScript and Pixi.js.
 
-[duckhunt](https://github.com/MattSurabian/DuckHunt-JS) ⭐ 632 | 🐛 14 | 🌐 JavaScript | 📅 2026-06-30 – DuckHunt ported to JS and HTML5.
+[duckhunt](https://github.com/MattSurabian/DuckHunt-JS) ⭐ 633 | 🐛 14 | 🌐 JavaScript | 📅 2026-06-30 – DuckHunt ported to JS and HTML5.
 
 [doom-lgs](https://github.com/matiasbeckerle/doom-lgs) ⭐ 40 | 🐛 0 | 🌐 JavaScript | 📅 2015-06-12 – a multiplayer Node.js light gun shooter inspired on Doom.
 
@@ -178,4 +178,4 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._

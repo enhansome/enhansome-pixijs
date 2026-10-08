@@ -299,8 +299,8 @@
             "id": 119281621,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T12:04:47Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-07T15:39:28Z",
+            "open_issues": 4,
             "owner": "yordan-kanchelov",
             "repo": "pixi-console",
             "stars": 43,
@@ -936,7 +936,7 @@
             "open_issues": 44,
             "owner": "pixijs",
             "repo": "pixi-react",
-            "stars": 2885,
+            "stars": 2886,
             "topics": [
               "pixi",
               "react",
@@ -1090,11 +1090,11 @@
             "id": 27105154,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-28T17:05:54Z",
-            "open_issues": 32,
+            "last_commit": "2026-10-07T19:17:19Z",
+            "open_issues": 34,
             "owner": "bemusic",
             "repo": "bemuse",
-            "stars": 1249,
+            "stars": 1250,
             "topics": [
               "bms",
               "bmson",
@@ -1156,7 +1156,7 @@
             "open_issues": 14,
             "owner": "MattSurabian",
             "repo": "DuckHunt-JS",
-            "stars": 632,
+            "stars": 633,
             "topics": [
               "audio",
               "canvas",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T00:59:43.543Z",
+    "last_updated": "2026-10-08T01:15:48.800Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
@@ -1339,7 +1339,7 @@
       "open_issues": 5,
       "owner": "cursedcoder",
       "repo": "awesome-pixijs",
-      "stars": 778,
+      "stars": 779,
       "topics": [
         "awesome-list",
         "canvas",
