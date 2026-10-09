@@ -358,7 +358,7 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2025-03-24T11:57:30Z",
-            "open_issues": 195,
+            "open_issues": 194,
             "owner": "pixijs-userland",
             "repo": "spine",
             "stars": 627,
@@ -590,7 +590,7 @@
             "open_issues": 124,
             "owner": "dataarts",
             "repo": "dat.gui",
-            "stars": 7731,
+            "stars": 7730,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -1090,11 +1090,11 @@
             "id": 27105154,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-07T19:17:19Z",
-            "open_issues": 34,
+            "last_commit": "2026-10-08T16:18:49Z",
+            "open_issues": 31,
             "owner": "bemusic",
             "repo": "bemuse",
-            "stars": 1250,
+            "stars": 1251,
             "topics": [
               "bms",
               "bmson",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T01:15:48.800Z",
+    "last_updated": "2026-10-09T01:23:19.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
