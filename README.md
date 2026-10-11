@@ -8,7 +8,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [github organization](https://github.com/pixijs).
 
-[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,317 | 🐛 377 | 🌐 TypeScript | 📅 2026-10-09.
+[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,322 | 🐛 377 | 🌐 TypeScript | 📅 2026-10-10.
 
 [pixijs.com](http://www.pixijs.com/) – official website.
 
@@ -56,7 +56,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 # Debug
 
-[pixi-inspector](https://github.com/bfanger/pixi-inspector) ⭐ 420 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-22 – awesome [plugin for chrome](https://chrome.google.com/webstore/detail/pixi-inspector/aamddddknhcagpehecnhphigffljadon), visually inspect and modify nodes in your scene graph.
+[pixi-inspector](https://github.com/bfanger/pixi-inspector) ⭐ 419 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-22 – awesome [plugin for chrome](https://chrome.google.com/webstore/detail/pixi-inspector/aamddddknhcagpehecnhphigffljadon), visually inspect and modify nodes in your scene graph.
 
 [pixi-console](https://github.com/jkanchelov/pixi-console) ⭐ 43 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-07 - adds a container that shows console log. Useful on mobile devices.
 
@@ -82,7 +82,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 # Filters, shaders, vfx
 
-[pixi-filters](https://github.com/pixijs/pixi-filters) ⭐ 1,138 | 🐛 49 | 🌐 TypeScript | 📅 2026-02-13 – some official filters.
+[pixi-filters](https://github.com/pixijs/pixi-filters) ⭐ 1,139 | 🐛 49 | 🌐 TypeScript | 📅 2026-02-13 – some official filters.
 
 [neutrinoparticles.pixi](https://www.npmjs.com/package/neutrinoparticles.pixi) - allows you to render NeutrinoParticles effects such as water stream
 
@@ -102,11 +102,11 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [pixi-sound](https://github.com/pixijs/pixi-sound) ⭐ 477 | 🐛 60 | 🌐 TypeScript | 📅 2024-09-27 – official WebAudio API playback without any Flash shims or HTML Audio fallback.
 
-[sound.js](https://github.com/kittykatattack/sound.js) ⭐ 318 | 🐛 17 | 🌐 JavaScript | 📅 2024-04-25 – a micro-library to load, play and generate sound effects and music for games and interactive applications.
+[sound.js](https://github.com/kittykatattack/sound.js) ⭐ 317 | 🐛 17 | 🌐 JavaScript | 📅 2024-04-25 – a micro-library to load, play and generate sound effects and music for games and interactive applications.
 
 # Particles
 
-[pixi-particles](https://github.com/pixijs/pixi-particles) ⭐ 852 | 🐛 19 | 🌐 TypeScript | 📅 2026-01-09 – official particles plugin.
+[pixi-particles](https://github.com/pixijs/pixi-particles) ⭐ 851 | 🐛 19 | 🌐 TypeScript | 📅 2026-01-09 – official particles plugin.
 
 [pixi-particles-editor](https://github.com/pixijs/pixi-particles-editor) ⭐ 75 | 🐛 11 | 🌐 JavaScript | 📅 2024-12-21 – see online [demo](http://pixijs.github.io/pixi-particles-editor/).
 
@@ -128,7 +128,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [react-pixi-fiber](https://github.com/michalochman/react-pixi-fiber) ⭐ 881 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-02 – integration with react.js framework.
 
-[react-pixi](https://github.com/inlet/react-pixi) ⭐ 2,885 | 🐛 45 | 🌐 TypeScript | 📅 2026-01-16 – another react.js integration with custom renderer, reconcilation, etc.
+[react-pixi](https://github.com/inlet/react-pixi) ⭐ 2,886 | 🐛 45 | 🌐 TypeScript | 📅 2026-01-16 – another react.js integration with custom renderer, reconcilation, etc.
 
 [RobotlegsJS-Pixi](https://github.com/RobotlegsJS/RobotlegsJS-Pixi) ⭐ 25 | 🐛 2 | 🌐 TypeScript | 📅 2021-06-11 – RobotlegsJS framework integration with PixiJS.
 
@@ -178,4 +178,4 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._

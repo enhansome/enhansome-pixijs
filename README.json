@@ -282,7 +282,7 @@
             "open_issues": 4,
             "owner": "bfanger",
             "repo": "pixi-inspector",
-            "stars": 420,
+            "stars": 419,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -676,7 +676,7 @@
             "open_issues": 17,
             "owner": "kittykatattack",
             "repo": "sound.js",
-            "stars": 318,
+            "stars": 317,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -703,7 +703,7 @@
             "open_issues": 19,
             "owner": "pixijs-userland",
             "repo": "particle-emitter",
-            "stars": 852,
+            "stars": 851,
             "topics": [
               "javascript-library",
               "particles",
@@ -936,7 +936,7 @@
             "open_issues": 45,
             "owner": "pixijs",
             "repo": "pixi-react",
-            "stars": 2885,
+            "stars": 2886,
             "topics": [
               "pixi",
               "react",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T01:12:01.206Z",
+    "last_updated": "2026-10-11T00:25:38.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
