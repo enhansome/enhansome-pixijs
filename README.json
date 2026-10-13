@@ -361,7 +361,7 @@
             "open_issues": 194,
             "owner": "pixijs-userland",
             "repo": "spine",
-            "stars": 626,
+            "stars": 627,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -905,8 +905,8 @@
             "id": 116292940,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T08:52:46Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-12T11:05:04Z",
+            "open_issues": 3,
             "owner": "michalochman",
             "repo": "react-pixi-fiber",
             "stars": 881,
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T00:42:44.530Z",
+    "last_updated": "2026-10-13T02:41:58.388Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
