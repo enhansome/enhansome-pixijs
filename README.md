@@ -8,7 +8,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [github organization](https://github.com/pixijs).
 
-[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,362 | 🐛 383 | 🌐 TypeScript | 📅 2026-10-10.
+[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,369 | 🐛 386 | 🌐 TypeScript | 📅 2026-10-10.
 
 [pixijs.com](http://www.pixijs.com/) – official website.
 
@@ -42,9 +42,9 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [pixi-super-atlas](https://github.com/gameofbombs/pixi-super-atlas) ⭐ 19 | 🐛 1 | 🌐 TypeScript | 📅 2017-11-13 – create image atlas in your runtime, mipmaps supported.
 
-[pixi-heaven](https://github.com/gameofbombs/pixi-heaven) ⭐ 117 | 🐛 15 | 🌐 TypeScript | 📅 2024-12-20 – runtime atlas, double tint for sprites, fastest glsl-calculated sprite masks.
+[pixi-heaven](https://github.com/gameofbombs/pixi-heaven) ⭐ 116 | 🐛 15 | 🌐 TypeScript | 📅 2024-12-20 – runtime atlas, double tint for sprites, fastest glsl-calculated sprite masks.
 
-[pixi-viewport](https://github.com/davidfig/pixi-viewport) ⭐ 1,222 | 🐛 144 | 🌐 TypeScript | 📅 2025-02-03 – a highly configurable viewport/2D camera designed to work with pixi.js.
+[pixi-viewport](https://github.com/davidfig/pixi-viewport) ⭐ 1,221 | 🐛 144 | 🌐 TypeScript | 📅 2025-02-03 – a highly configurable viewport/2D camera designed to work with pixi.js.
 
 [canvas-latex](https://github.com/CurriculumAssociates/canvas-latex) – render latex formulas in pixi.js.
 
@@ -64,7 +64,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 # Animate
 
-[pixi-spine](https://github.com/pixijs/pixi-spine) ⭐ 627 | 🐛 194 | 🌐 TypeScript | 📅 2025-03-24 – port of official [spine](http://esotericsoftware.com/)-ts runtime to pixi.
+[pixi-spine](https://github.com/pixijs/pixi-spine) ⭐ 626 | 🐛 194 | 🌐 TypeScript | 📅 2025-03-24 – port of official [spine](http://esotericsoftware.com/)-ts runtime to pixi.
 
 [pixi-action](https://github.com/hustcc/pixi-action) ⭐ 68 | 🐛 2 | 🌐 HTML | 📅 2017-12-27 – animations in Cocos2d-x style.
 
@@ -94,7 +94,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [gown.js](https://github.com/GreyRook/gown.js) ⭐ 226 | 🐛 46 | 🌐 JavaScript | 📅 2023-09-29 – UI system for pixi.js inspired by [feathers-ui](https://feathersui.com/).
 
-[dat.gui](https://github.com/dataarts/dat.gui) ⭐ 7,730 | 🐛 124 | 🌐 JavaScript | 📅 2026-06-21 – DOM-based GUI can be used as dev tools on top of pixi.
+[dat.gui](https://github.com/dataarts/dat.gui) ⭐ 7,729 | 🐛 124 | 🌐 JavaScript | 📅 2026-06-21 – DOM-based GUI can be used as dev tools on top of pixi.
 
 [heatmap](https://github.com/nconrad/heatmap) ⭐ 18 | 🐛 20 | 🌐 JavaScript | 📅 2023-01-14 – WebGL Heatmap Viewer for Bioinformatics and Big Data.
 
@@ -122,7 +122,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [pixi-haxe](https://github.com/pixijs/pixi-haxe) ⚠️ Archived – externs for [haxe](haxe.org) compiler.
 
-[react-pixi](https://github.com/Izzimach/react-pixi) ⭐ 744 | 🐛 10 | 🌐 JavaScript | 📅 2018-10-25 – integration for facebook's framework.
+[react-pixi](https://github.com/Izzimach/react-pixi) ⭐ 745 | 🐛 10 | 🌐 JavaScript | 📅 2018-10-25 – integration for facebook's framework.
 
 [pixi.scala.js](https://github.com/scalajs-io/pixijs) ⭐ 7 | 🐛 0 | 🌐 Scala | 📅 2019-06-17 – externs for scala.js compiler.
 
@@ -140,7 +140,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [kittenattack](https://github.com/kittykatattack) – check that person github repositories, most of them are incredibly suited for learning.
 
-[learningPixi](https://github.com/kittykatattack/learningPixi) ⭐ 4,408 | 🐛 62 | 📅 2021-09-11 – definitive guide to game development with pixi.
+[learningPixi](https://github.com/kittykatattack/learningPixi) ⭐ 4,407 | 🐛 62 | 📅 2021-09-11 – definitive guide to game development with pixi.
 
 # Forks
 
@@ -178,4 +178,4 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._

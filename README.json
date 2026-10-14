@@ -206,7 +206,7 @@
             "open_issues": 15,
             "owner": "pixijs-userland",
             "repo": "pixi-heaven",
-            "stars": 117,
+            "stars": 116,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -227,7 +227,7 @@
             "open_issues": 144,
             "owner": "pixijs-userland",
             "repo": "pixi-viewport",
-            "stars": 1222,
+            "stars": 1221,
             "topics": [
               "2d-camera",
               "bounce",
@@ -361,7 +361,7 @@
             "open_issues": 194,
             "owner": "pixijs-userland",
             "repo": "spine",
-            "stars": 627,
+            "stars": 626,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -590,7 +590,7 @@
             "open_issues": 124,
             "owner": "dataarts",
             "repo": "dat.gui",
-            "stars": 7730,
+            "stars": 7729,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -859,7 +859,7 @@
             "open_issues": 10,
             "owner": "Izzimach",
             "repo": "react-pixi",
-            "stars": 744,
+            "stars": 745,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -992,7 +992,7 @@
             "open_issues": 62,
             "owner": "kittykatattack",
             "repo": "learningPixi",
-            "stars": 4408,
+            "stars": 4407,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T02:41:58.388Z",
+    "last_updated": "2026-10-14T00:34:29.826Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
