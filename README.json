@@ -299,8 +299,8 @@
             "id": 119281621,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-07T15:39:28Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-14T21:10:09Z",
+            "open_issues": 3,
             "owner": "yordan-kanchelov",
             "repo": "pixi-console",
             "stars": 43,
@@ -590,7 +590,7 @@
             "open_issues": 124,
             "owner": "dataarts",
             "repo": "dat.gui",
-            "stars": 7729,
+            "stars": 7728,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -905,8 +905,8 @@
             "id": 116292940,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T11:05:04Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-14T09:22:21Z",
+            "open_issues": 0,
             "owner": "michalochman",
             "repo": "react-pixi-fiber",
             "stars": 881,
@@ -1156,7 +1156,7 @@
             "open_issues": 14,
             "owner": "MattSurabian",
             "repo": "DuckHunt-JS",
-            "stars": 633,
+            "stars": 635,
             "topics": [
               "audio",
               "canvas",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T00:34:29.826Z",
+    "last_updated": "2026-10-15T00:03:14.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
