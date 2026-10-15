@@ -590,7 +590,7 @@
             "open_issues": 124,
             "owner": "dataarts",
             "repo": "dat.gui",
-            "stars": 7728,
+            "stars": 7727,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -936,7 +936,7 @@
             "open_issues": 45,
             "owner": "pixijs",
             "repo": "pixi-react",
-            "stars": 2886,
+            "stars": 2887,
             "topics": [
               "pixi",
               "react",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T00:03:14.783Z",
+    "last_updated": "2026-10-15T23:48:18.515Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
