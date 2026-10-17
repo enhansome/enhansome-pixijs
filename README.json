@@ -936,7 +936,7 @@
             "open_issues": 45,
             "owner": "pixijs",
             "repo": "pixi-react",
-            "stars": 2887,
+            "stars": 2888,
             "topics": [
               "pixi",
               "react",
@@ -1091,7 +1091,7 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-08T16:18:49Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "bemusic",
             "repo": "bemuse",
             "stars": 1252,
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T23:50:16.499Z",
+    "last_updated": "2026-10-17T23:21:47.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
