@@ -648,7 +648,7 @@
             "open_issues": 60,
             "owner": "pixijs",
             "repo": "sound",
-            "stars": 477,
+            "stars": 478,
             "topics": [
               "javascript-library",
               "pixi",
@@ -936,7 +936,7 @@
             "open_issues": 45,
             "owner": "pixijs",
             "repo": "pixi-react",
-            "stars": 2888,
+            "stars": 2887,
             "topics": [
               "pixi",
               "react",
@@ -1046,7 +1046,7 @@
             "open_issues": 33,
             "owner": "krzysztof-o",
             "repo": "spritesheet.js",
-            "stars": 566,
+            "stars": 567,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T23:21:47.132Z",
+    "last_updated": "2026-10-18T23:35:52.846Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
