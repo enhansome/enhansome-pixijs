@@ -278,7 +278,7 @@
             "id": 37883022,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T12:07:31Z",
+            "last_commit": "2026-10-20T14:14:56Z",
             "open_issues": 4,
             "owner": "bfanger",
             "repo": "pixi-inspector",
@@ -648,7 +648,7 @@
             "open_issues": 60,
             "owner": "pixijs",
             "repo": "sound",
-            "stars": 478,
+            "stars": 477,
             "topics": [
               "javascript-library",
               "pixi",
@@ -936,7 +936,7 @@
             "open_issues": 45,
             "owner": "pixijs",
             "repo": "pixi-react",
-            "stars": 2887,
+            "stars": 2888,
             "topics": [
               "pixi",
               "react",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T00:36:34.260Z",
+    "last_updated": "2026-10-21T00:05:42.912Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
