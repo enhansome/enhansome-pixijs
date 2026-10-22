@@ -8,7 +8,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [github organization](https://github.com/pixijs).
 
-[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,434 | 🐛 401 | 🌐 TypeScript | 📅 2026-10-20.
+[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,441 | 🐛 408 | 🌐 TypeScript | 📅 2026-10-21.
 
 [pixijs.com](http://www.pixijs.com/) – official website.
 
@@ -56,9 +56,9 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 # Debug
 
-[pixi-inspector](https://github.com/bfanger/pixi-inspector) ⭐ 419 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-20 – awesome [plugin for chrome](https://chrome.google.com/webstore/detail/pixi-inspector/aamddddknhcagpehecnhphigffljadon), visually inspect and modify nodes in your scene graph.
+[pixi-inspector](https://github.com/bfanger/pixi-inspector) ⭐ 419 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-21 – awesome [plugin for chrome](https://chrome.google.com/webstore/detail/pixi-inspector/aamddddknhcagpehecnhphigffljadon), visually inspect and modify nodes in your scene graph.
 
-[pixi-console](https://github.com/jkanchelov/pixi-console) ⭐ 43 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-16 - adds a container that shows console log. Useful on mobile devices.
+[pixi-console](https://github.com/jkanchelov/pixi-console) ⭐ 43 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-21 - adds a container that shows console log. Useful on mobile devices.
 
 [gstatsjs](https://github.com/eXponenta/gstatsjs) ⚠️ Archived - shows several texture-related metrics, like drawcalls. Works with Pixi, Phaser, can be integrated in custom renderers.
 
@@ -82,7 +82,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 # Filters, shaders, vfx
 
-[pixi-filters](https://github.com/pixijs/pixi-filters) ⭐ 1,139 | 🐛 49 | 🌐 TypeScript | 📅 2026-02-13 – some official filters.
+[pixi-filters](https://github.com/pixijs/pixi-filters) ⭐ 1,139 | 🐛 50 | 🌐 TypeScript | 📅 2026-02-13 – some official filters.
 
 [neutrinoparticles.pixi](https://www.npmjs.com/package/neutrinoparticles.pixi) - allows you to render NeutrinoParticles effects such as water stream
 
@@ -106,7 +106,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 # Particles
 
-[pixi-particles](https://github.com/pixijs/pixi-particles) ⭐ 851 | 🐛 19 | 🌐 TypeScript | 📅 2026-01-09 – official particles plugin.
+[pixi-particles](https://github.com/pixijs/pixi-particles) ⭐ 852 | 🐛 19 | 🌐 TypeScript | 📅 2026-01-09 – official particles plugin.
 
 [pixi-particles-editor](https://github.com/pixijs/pixi-particles-editor) ⭐ 75 | 🐛 11 | 🌐 JavaScript | 📅 2024-12-21 – see online [demo](http://pixijs.github.io/pixi-particles-editor/).
 
@@ -178,4 +178,4 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
