@@ -278,7 +278,7 @@
             "id": 37883022,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T19:51:03Z",
+            "last_commit": "2026-10-22T12:30:45Z",
             "open_issues": 4,
             "owner": "bfanger",
             "repo": "pixi-inspector",
@@ -299,8 +299,8 @@
             "id": 119281621,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T15:23:58Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-22T05:00:41Z",
+            "open_issues": 6,
             "owner": "yordan-kanchelov",
             "repo": "pixi-console",
             "stars": 43,
@@ -1094,7 +1094,7 @@
             "open_issues": 32,
             "owner": "bemusic",
             "repo": "bemuse",
-            "stars": 1252,
+            "stars": 1253,
             "topics": [
               "bms",
               "bmson",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T00:09:14.931Z",
+    "last_updated": "2026-10-23T00:07:45.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
