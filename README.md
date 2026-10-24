@@ -8,7 +8,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [github organization](https://github.com/pixijs).
 
-[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,443 | 🐛 406 | 🌐 TypeScript | 📅 2026-10-22.
+[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,457 | 🐛 407 | 🌐 TypeScript | 📅 2026-10-22.
 
 [pixijs.com](http://www.pixijs.com/) – official website.
 
@@ -106,7 +106,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 # Particles
 
-[pixi-particles](https://github.com/pixijs/pixi-particles) ⭐ 852 | 🐛 19 | 🌐 TypeScript | 📅 2026-01-09 – official particles plugin.
+[pixi-particles](https://github.com/pixijs/pixi-particles) ⭐ 852 | 🐛 18 | 🌐 TypeScript | 📅 2026-01-09 – official particles plugin.
 
 [pixi-particles-editor](https://github.com/pixijs/pixi-particles-editor) ⭐ 75 | 🐛 11 | 🌐 JavaScript | 📅 2024-12-21 – see online [demo](http://pixijs.github.io/pixi-particles-editor/).
 
@@ -126,9 +126,9 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [pixi.scala.js](https://github.com/scalajs-io/pixijs) ⭐ 7 | 🐛 0 | 🌐 Scala | 📅 2019-06-17 – externs for scala.js compiler.
 
-[react-pixi-fiber](https://github.com/michalochman/react-pixi-fiber) ⭐ 881 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-23 – integration with react.js framework.
+[react-pixi-fiber](https://github.com/michalochman/react-pixi-fiber) ⭐ 881 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-24 – integration with react.js framework.
 
-[react-pixi](https://github.com/inlet/react-pixi) ⭐ 2,889 | 🐛 45 | 🌐 TypeScript | 📅 2026-01-16 – another react.js integration with custom renderer, reconcilation, etc.
+[react-pixi](https://github.com/inlet/react-pixi) ⭐ 2,888 | 🐛 45 | 🌐 TypeScript | 📅 2026-01-16 – another react.js integration with custom renderer, reconcilation, etc.
 
 [RobotlegsJS-Pixi](https://github.com/RobotlegsJS/RobotlegsJS-Pixi) ⭐ 25 | 🐛 2 | 🌐 TypeScript | 📅 2021-06-11 – RobotlegsJS framework integration with PixiJS.
 
@@ -178,4 +178,4 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._

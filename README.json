@@ -700,7 +700,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-01-09T04:44:16Z",
-            "open_issues": 19,
+            "open_issues": 18,
             "owner": "pixijs-userland",
             "repo": "particle-emitter",
             "stars": 852,
@@ -905,9 +905,9 @@
             "id": 116292940,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-23T11:13:16Z",
-            "open_issues": 0,
-            "owner": "michalochman",
+            "last_commit": "2026-10-24T21:35:17Z",
+            "open_issues": 1,
+            "owner": "KalambaGames",
             "repo": "react-pixi-fiber",
             "stars": 881,
             "topics": [
@@ -936,7 +936,7 @@
             "open_issues": 45,
             "owner": "pixijs",
             "repo": "pixi-react",
-            "stars": 2889,
+            "stars": 2888,
             "topics": [
               "pixi",
               "react",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T23:58:03.415Z",
+    "last_updated": "2026-10-24T23:39:03.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
