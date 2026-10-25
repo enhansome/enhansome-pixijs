@@ -590,7 +590,7 @@
             "open_issues": 124,
             "owner": "dataarts",
             "repo": "dat.gui",
-            "stars": 7727,
+            "stars": 7728,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -648,7 +648,7 @@
             "open_issues": 60,
             "owner": "pixijs",
             "repo": "sound",
-            "stars": 477,
+            "stars": 478,
             "topics": [
               "javascript-library",
               "pixi",
@@ -901,12 +901,12 @@
           "repo_info": {
             "archived": false,
             "description": "Write PixiJS applications using React declarative style.",
-            "homepage": null,
+            "homepage": "https://react-pixi-fiber.pages.dev",
             "id": 116292940,
-            "language": "JavaScript",
+            "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T21:35:17Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-25T20:05:27Z",
+            "open_issues": 0,
             "owner": "KalambaGames",
             "repo": "react-pixi-fiber",
             "stars": 881,
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T23:39:03.448Z",
+    "last_updated": "2026-10-25T23:30:17.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",

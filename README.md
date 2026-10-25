@@ -8,7 +8,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [github organization](https://github.com/pixijs).
 
-[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,457 | 🐛 407 | 🌐 TypeScript | 📅 2026-10-22.
+[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,467 | 🐛 409 | 🌐 TypeScript | 📅 2026-10-22.
 
 [pixijs.com](http://www.pixijs.com/) – official website.
 
@@ -94,13 +94,13 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [gown.js](https://github.com/GreyRook/gown.js) ⭐ 226 | 🐛 46 | 🌐 JavaScript | 📅 2023-09-29 – UI system for pixi.js inspired by [feathers-ui](https://feathersui.com/).
 
-[dat.gui](https://github.com/dataarts/dat.gui) ⭐ 7,727 | 🐛 124 | 🌐 JavaScript | 📅 2026-06-21 – DOM-based GUI can be used as dev tools on top of pixi.
+[dat.gui](https://github.com/dataarts/dat.gui) ⭐ 7,728 | 🐛 124 | 🌐 JavaScript | 📅 2026-06-21 – DOM-based GUI can be used as dev tools on top of pixi.
 
 [heatmap](https://github.com/nconrad/heatmap) ⭐ 18 | 🐛 20 | 🌐 JavaScript | 📅 2023-01-14 – WebGL Heatmap Viewer for Bioinformatics and Big Data.
 
 # Audio
 
-[pixi-sound](https://github.com/pixijs/pixi-sound) ⭐ 477 | 🐛 60 | 🌐 TypeScript | 📅 2024-09-27 – official WebAudio API playback without any Flash shims or HTML Audio fallback.
+[pixi-sound](https://github.com/pixijs/pixi-sound) ⭐ 478 | 🐛 60 | 🌐 TypeScript | 📅 2024-09-27 – official WebAudio API playback without any Flash shims or HTML Audio fallback.
 
 [sound.js](https://github.com/kittykatattack/sound.js) ⭐ 317 | 🐛 17 | 🌐 JavaScript | 📅 2024-04-25 – a micro-library to load, play and generate sound effects and music for games and interactive applications.
 
@@ -126,7 +126,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [pixi.scala.js](https://github.com/scalajs-io/pixijs) ⭐ 7 | 🐛 0 | 🌐 Scala | 📅 2019-06-17 – externs for scala.js compiler.
 
-[react-pixi-fiber](https://github.com/michalochman/react-pixi-fiber) ⭐ 881 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-24 – integration with react.js framework.
+[react-pixi-fiber](https://github.com/michalochman/react-pixi-fiber) ⭐ 881 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-25 – integration with react.js framework.
 
 [react-pixi](https://github.com/inlet/react-pixi) ⭐ 2,888 | 🐛 45 | 🌐 TypeScript | 📅 2026-01-16 – another react.js integration with custom renderer, reconcilation, etc.
 
@@ -178,4 +178,4 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
