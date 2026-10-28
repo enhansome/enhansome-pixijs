@@ -8,7 +8,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [github organization](https://github.com/pixijs).
 
-[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,527 | 🐛 409 | 🌐 TypeScript | 📅 2026-10-26.
+[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,569 | 🐛 410 | 🌐 TypeScript | 📅 2026-10-27.
 
 [pixijs.com](http://www.pixijs.com/) – official website.
 
@@ -44,7 +44,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [pixi-heaven](https://github.com/gameofbombs/pixi-heaven) ⭐ 116 | 🐛 15 | 🌐 TypeScript | 📅 2024-12-20 – runtime atlas, double tint for sprites, fastest glsl-calculated sprite masks.
 
-[pixi-viewport](https://github.com/davidfig/pixi-viewport) ⭐ 1,222 | 🐛 144 | 🌐 TypeScript | 📅 2025-02-03 – a highly configurable viewport/2D camera designed to work with pixi.js.
+[pixi-viewport](https://github.com/davidfig/pixi-viewport) ⭐ 1,221 | 🐛 144 | 🌐 TypeScript | 📅 2025-02-03 – a highly configurable viewport/2D camera designed to work with pixi.js.
 
 [canvas-latex](https://github.com/CurriculumAssociates/canvas-latex) – render latex formulas in pixi.js.
 
@@ -56,7 +56,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 # Debug
 
-[pixi-inspector](https://github.com/bfanger/pixi-inspector) ⭐ 419 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-22 – awesome [plugin for chrome](https://chrome.google.com/webstore/detail/pixi-inspector/aamddddknhcagpehecnhphigffljadon), visually inspect and modify nodes in your scene graph.
+[pixi-inspector](https://github.com/bfanger/pixi-inspector) ⭐ 419 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-22 – awesome [plugin for chrome](https://chrome.google.com/webstore/detail/pixi-inspector/aamddddknhcagpehecnhphigffljadon), visually inspect and modify nodes in your scene graph.
 
 [pixi-console](https://github.com/jkanchelov/pixi-console) ⭐ 43 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-26 - adds a container that shows console log. Useful on mobile devices.
 
@@ -126,7 +126,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [pixi.scala.js](https://github.com/scalajs-io/pixijs) ⭐ 7 | 🐛 0 | 🌐 Scala | 📅 2019-06-17 – externs for scala.js compiler.
 
-[react-pixi-fiber](https://github.com/michalochman/react-pixi-fiber) ⭐ 881 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-26 – integration with react.js framework.
+[react-pixi-fiber](https://github.com/michalochman/react-pixi-fiber) ⭐ 881 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-27 – integration with react.js framework.
 
 [react-pixi](https://github.com/inlet/react-pixi) ⭐ 2,889 | 🐛 45 | 🌐 TypeScript | 📅 2026-01-16 – another react.js integration with custom renderer, reconcilation, etc.
 
@@ -162,7 +162,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [breakout](https://github.com/Bonnee/breakthefuckout) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2016-10-22 – breakout game made in JavaScript and Pixi.js.
 
-[duckhunt](https://github.com/MattSurabian/DuckHunt-JS) ⭐ 635 | 🐛 14 | 🌐 JavaScript | 📅 2026-06-30 – DuckHunt ported to JS and HTML5.
+[duckhunt](https://github.com/MattSurabian/DuckHunt-JS) ⭐ 636 | 🐛 14 | 🌐 JavaScript | 📅 2026-06-30 – DuckHunt ported to JS and HTML5.
 
 [doom-lgs](https://github.com/matiasbeckerle/doom-lgs) ⭐ 40 | 🐛 0 | 🌐 JavaScript | 📅 2015-06-12 – a multiplayer Node.js light gun shooter inspired on Doom.
 
@@ -178,4 +178,4 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
