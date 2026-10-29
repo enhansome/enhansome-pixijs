@@ -413,7 +413,7 @@
             "open_issues": 3,
             "owner": "avgjs",
             "repo": "pixi-live2d",
-            "stars": 682,
+            "stars": 681,
             "topics": [
               "live2d",
               "pixi",
@@ -645,10 +645,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2024-09-27T05:27:34Z",
-            "open_issues": 60,
+            "open_issues": 61,
             "owner": "pixijs",
             "repo": "sound",
-            "stars": 478,
+            "stars": 479,
             "topics": [
               "javascript-library",
               "pixi",
@@ -703,7 +703,7 @@
             "open_issues": 18,
             "owner": "pixijs-userland",
             "repo": "particle-emitter",
-            "stars": 852,
+            "stars": 853,
             "topics": [
               "javascript-library",
               "particles",
@@ -905,8 +905,8 @@
             "id": 116292940,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T22:05:34Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-28T16:56:03Z",
+            "open_issues": 0,
             "owner": "KalambaGames",
             "repo": "react-pixi-fiber",
             "stars": 881,
@@ -992,7 +992,7 @@
             "open_issues": 62,
             "owner": "kittykatattack",
             "repo": "learningPixi",
-            "stars": 4406,
+            "stars": 4407,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T00:41:59.470Z",
+    "last_updated": "2026-10-29T01:11:36.710Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
