@@ -299,8 +299,8 @@
             "id": 119281621,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T12:28:14Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-29T23:19:52Z",
+            "open_issues": 8,
             "owner": "yordan-kanchelov",
             "repo": "pixi-console",
             "stars": 43,
@@ -644,8 +644,8 @@
             "id": 80853199,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2024-09-27T05:27:34Z",
-            "open_issues": 61,
+            "last_commit": "2026-10-30T00:45:26Z",
+            "open_issues": 56,
             "owner": "pixijs",
             "repo": "sound",
             "stars": 479,
@@ -936,7 +936,7 @@
             "open_issues": 45,
             "owner": "pixijs",
             "repo": "pixi-react",
-            "stars": 2889,
+            "stars": 2888,
             "topics": [
               "pixi",
               "react",
@@ -962,7 +962,7 @@
             "open_issues": 2,
             "owner": "RobotlegsJS",
             "repo": "RobotlegsJS-Pixi",
-            "stars": 25,
+            "stars": 26,
             "topics": [
               "pixijs",
               "robotlegsjs"
@@ -992,7 +992,7 @@
             "open_issues": 62,
             "owner": "kittykatattack",
             "repo": "learningPixi",
-            "stars": 4407,
+            "stars": 4406,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -1094,7 +1094,7 @@
             "open_issues": 32,
             "owner": "bemusic",
             "repo": "bemuse",
-            "stars": 1253,
+            "stars": 1254,
             "topics": [
               "bms",
               "bmson",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T01:11:36.710Z",
+    "last_updated": "2026-10-30T01:19:10.252Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
