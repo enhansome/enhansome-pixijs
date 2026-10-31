@@ -8,7 +8,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [github organization](https://github.com/pixijs).
 
-[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,588 | 🐛 413 | 🌐 TypeScript | 📅 2026-10-28.
+[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,601 | 🐛 410 | 🌐 TypeScript | 📅 2026-10-30.
 
 [pixijs.com](http://www.pixijs.com/) – official website.
 
@@ -100,7 +100,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 # Audio
 
-[pixi-sound](https://github.com/pixijs/pixi-sound) ⭐ 479 | 🐛 56 | 🌐 TypeScript | 📅 2026-10-30 – official WebAudio API playback without any Flash shims or HTML Audio fallback.
+[pixi-sound](https://github.com/pixijs/pixi-sound) ⭐ 479 | 🐛 50 | 🌐 TypeScript | 📅 2026-10-30 – official WebAudio API playback without any Flash shims or HTML Audio fallback.
 
 [sound.js](https://github.com/kittykatattack/sound.js) ⭐ 317 | 🐛 17 | 🌐 JavaScript | 📅 2024-04-25 – a micro-library to load, play and generate sound effects and music for games and interactive applications.
 
@@ -178,4 +178,4 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
