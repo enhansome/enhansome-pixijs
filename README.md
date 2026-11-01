@@ -8,7 +8,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [github organization](https://github.com/pixijs).
 
-[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,601 | 🐛 410 | 🌐 TypeScript | 📅 2026-10-30.
+[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,606 | 🐛 411 | 🌐 TypeScript | 📅 2026-10-30.
 
 [pixijs.com](http://www.pixijs.com/) – official website.
 
@@ -44,7 +44,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [pixi-heaven](https://github.com/gameofbombs/pixi-heaven) ⭐ 116 | 🐛 15 | 🌐 TypeScript | 📅 2024-12-20 – runtime atlas, double tint for sprites, fastest glsl-calculated sprite masks.
 
-[pixi-viewport](https://github.com/davidfig/pixi-viewport) ⭐ 1,221 | 🐛 144 | 🌐 TypeScript | 📅 2025-02-03 – a highly configurable viewport/2D camera designed to work with pixi.js.
+[pixi-viewport](https://github.com/davidfig/pixi-viewport) ⭐ 1,221 | 🐛 142 | 🌐 TypeScript | 📅 2026-10-31 – a highly configurable viewport/2D camera designed to work with pixi.js.
 
 [canvas-latex](https://github.com/CurriculumAssociates/canvas-latex) – render latex formulas in pixi.js.
 
@@ -56,7 +56,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 # Debug
 
-[pixi-inspector](https://github.com/bfanger/pixi-inspector) ⭐ 419 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-22 – awesome [plugin for chrome](https://chrome.google.com/webstore/detail/pixi-inspector/aamddddknhcagpehecnhphigffljadon), visually inspect and modify nodes in your scene graph.
+[pixi-inspector](https://github.com/bfanger/pixi-inspector) ⭐ 419 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-31 – awesome [plugin for chrome](https://chrome.google.com/webstore/detail/pixi-inspector/aamddddknhcagpehecnhphigffljadon), visually inspect and modify nodes in your scene graph.
 
 [pixi-console](https://github.com/jkanchelov/pixi-console) ⭐ 43 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-29 - adds a container that shows console log. Useful on mobile devices.
 
@@ -82,7 +82,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 # Filters, shaders, vfx
 
-[pixi-filters](https://github.com/pixijs/pixi-filters) ⭐ 1,139 | 🐛 51 | 🌐 TypeScript | 📅 2026-02-13 – some official filters.
+[pixi-filters](https://github.com/pixijs/pixi-filters) ⭐ 1,140 | 🐛 51 | 🌐 TypeScript | 📅 2026-02-13 – some official filters.
 
 [neutrinoparticles.pixi](https://www.npmjs.com/package/neutrinoparticles.pixi) - allows you to render NeutrinoParticles effects such as water stream
 
@@ -94,7 +94,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [gown.js](https://github.com/GreyRook/gown.js) ⭐ 226 | 🐛 46 | 🌐 JavaScript | 📅 2026-10-26 – UI system for pixi.js inspired by [feathers-ui](https://feathersui.com/).
 
-[dat.gui](https://github.com/dataarts/dat.gui) ⭐ 7,730 | 🐛 124 | 🌐 JavaScript | 📅 2026-06-21 – DOM-based GUI can be used as dev tools on top of pixi.
+[dat.gui](https://github.com/dataarts/dat.gui) ⭐ 7,731 | 🐛 124 | 🌐 JavaScript | 📅 2026-06-21 – DOM-based GUI can be used as dev tools on top of pixi.
 
 [heatmap](https://github.com/nconrad/heatmap) ⭐ 18 | 🐛 20 | 🌐 JavaScript | 📅 2023-01-14 – WebGL Heatmap Viewer for Bioinformatics and Big Data.
 
@@ -140,7 +140,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [kittenattack](https://github.com/kittykatattack) – check that person github repositories, most of them are incredibly suited for learning.
 
-[learningPixi](https://github.com/kittykatattack/learningPixi) ⭐ 4,406 | 🐛 62 | 📅 2021-09-11 – definitive guide to game development with pixi.
+[learningPixi](https://github.com/kittykatattack/learningPixi) ⭐ 4,405 | 🐛 62 | 📅 2021-09-11 – definitive guide to game development with pixi.
 
 # Forks
 
@@ -178,4 +178,4 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
