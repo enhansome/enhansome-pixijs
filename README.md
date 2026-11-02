@@ -8,7 +8,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [github organization](https://github.com/pixijs).
 
-[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,606 | 🐛 411 | 🌐 TypeScript | 📅 2026-10-30.
+[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,612 | 🐛 411 | 🌐 TypeScript | 📅 2026-10-30.
 
 [pixijs.com](http://www.pixijs.com/) – official website.
 
@@ -44,7 +44,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [pixi-heaven](https://github.com/gameofbombs/pixi-heaven) ⭐ 116 | 🐛 15 | 🌐 TypeScript | 📅 2024-12-20 – runtime atlas, double tint for sprites, fastest glsl-calculated sprite masks.
 
-[pixi-viewport](https://github.com/davidfig/pixi-viewport) ⭐ 1,221 | 🐛 142 | 🌐 TypeScript | 📅 2026-10-31 – a highly configurable viewport/2D camera designed to work with pixi.js.
+[pixi-viewport](https://github.com/davidfig/pixi-viewport) ⭐ 1,221 | 🐛 141 | 🌐 TypeScript | 📅 2026-11-01 – a highly configurable viewport/2D camera designed to work with pixi.js.
 
 [canvas-latex](https://github.com/CurriculumAssociates/canvas-latex) – render latex formulas in pixi.js.
 
@@ -64,7 +64,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 # Animate
 
-[pixi-spine](https://github.com/pixijs/pixi-spine) ⭐ 626 | 🐛 194 | 🌐 TypeScript | 📅 2025-03-24 – port of official [spine](http://esotericsoftware.com/)-ts runtime to pixi.
+[pixi-spine](https://github.com/pixijs/pixi-spine) ⭐ 625 | 🐛 194 | 🌐 TypeScript | 📅 2025-03-24 – port of official [spine](http://esotericsoftware.com/)-ts runtime to pixi.
 
 [pixi-action](https://github.com/hustcc/pixi-action) ⭐ 68 | 🐛 2 | 🌐 HTML | 📅 2017-12-27 – animations in Cocos2d-x style.
 
@@ -82,7 +82,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 # Filters, shaders, vfx
 
-[pixi-filters](https://github.com/pixijs/pixi-filters) ⭐ 1,140 | 🐛 51 | 🌐 TypeScript | 📅 2026-02-13 – some official filters.
+[pixi-filters](https://github.com/pixijs/pixi-filters) ⭐ 1,142 | 🐛 51 | 🌐 TypeScript | 📅 2026-02-13 – some official filters.
 
 [neutrinoparticles.pixi](https://www.npmjs.com/package/neutrinoparticles.pixi) - allows you to render NeutrinoParticles effects such as water stream
 
@@ -100,7 +100,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 # Audio
 
-[pixi-sound](https://github.com/pixijs/pixi-sound) ⭐ 479 | 🐛 50 | 🌐 TypeScript | 📅 2026-10-30 – official WebAudio API playback without any Flash shims or HTML Audio fallback.
+[pixi-sound](https://github.com/pixijs/pixi-sound) ⭐ 479 | 🐛 50 | 🌐 TypeScript | 📅 2026-11-02 – official WebAudio API playback without any Flash shims or HTML Audio fallback.
 
 [sound.js](https://github.com/kittykatattack/sound.js) ⭐ 317 | 🐛 17 | 🌐 JavaScript | 📅 2024-04-25 – a micro-library to load, play and generate sound effects and music for games and interactive applications.
 
@@ -122,7 +122,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [pixi-haxe](https://github.com/pixijs/pixi-haxe) ⚠️ Archived – externs for [haxe](haxe.org) compiler.
 
-[react-pixi](https://github.com/Izzimach/react-pixi) ⭐ 745 | 🐛 10 | 🌐 JavaScript | 📅 2018-10-25 – integration for facebook's framework.
+[react-pixi](https://github.com/Izzimach/react-pixi) ⭐ 744 | 🐛 10 | 🌐 JavaScript | 📅 2018-10-25 – integration for facebook's framework.
 
 [pixi.scala.js](https://github.com/scalajs-io/pixijs) ⭐ 7 | 🐛 0 | 🌐 Scala | 📅 2019-06-17 – externs for scala.js compiler.
 
@@ -178,4 +178,4 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._

@@ -223,8 +223,8 @@
             "id": 101721794,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T22:33:31Z",
-            "open_issues": 142,
+            "last_commit": "2026-11-01T20:28:51Z",
+            "open_issues": 141,
             "owner": "pixijs-userland",
             "repo": "pixi-viewport",
             "stars": 1221,
@@ -361,7 +361,7 @@
             "open_issues": 194,
             "owner": "pixijs-userland",
             "repo": "spine",
-            "stars": 626,
+            "stars": 625,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -644,7 +644,7 @@
             "id": 80853199,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T06:48:42Z",
+            "last_commit": "2026-11-02T00:33:41Z",
             "open_issues": 50,
             "owner": "pixijs",
             "repo": "sound",
@@ -859,7 +859,7 @@
             "open_issues": 10,
             "owner": "Izzimach",
             "repo": "react-pixi",
-            "stars": 745,
+            "stars": 744,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T00:23:53.390Z",
+    "last_updated": "2026-11-02T00:59:41.992Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
