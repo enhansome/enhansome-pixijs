@@ -8,7 +8,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [github organization](https://github.com/pixijs).
 
-[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,612 | 🐛 411 | 🌐 TypeScript | 📅 2026-10-30.
+[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,620 | 🐛 412 | 🌐 TypeScript | 📅 2026-10-30.
 
 [pixijs.com](http://www.pixijs.com/) – official website.
 
@@ -44,11 +44,11 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [pixi-heaven](https://github.com/gameofbombs/pixi-heaven) ⭐ 116 | 🐛 15 | 🌐 TypeScript | 📅 2024-12-20 – runtime atlas, double tint for sprites, fastest glsl-calculated sprite masks.
 
-[pixi-viewport](https://github.com/davidfig/pixi-viewport) ⭐ 1,221 | 🐛 141 | 🌐 TypeScript | 📅 2026-11-01 – a highly configurable viewport/2D camera designed to work with pixi.js.
+[pixi-viewport](https://github.com/davidfig/pixi-viewport) ⭐ 1,221 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-02 – a highly configurable viewport/2D camera designed to work with pixi.js.
 
 [canvas-latex](https://github.com/CurriculumAssociates/canvas-latex) – render latex formulas in pixi.js.
 
-[yy-rendersheet](https://github.com/davidfig/rendersheet) ⭐ 11 | 🐛 11 | 🌐 JavaScript | 📅 2022-12-04 - generate on-the-fly spritesheets for pixi.js
+[yy-rendersheet](https://github.com/davidfig/rendersheet) ⭐ 11 | 🐛 12 | 🌐 JavaScript | 📅 2026-11-02 - generate on-the-fly spritesheets for pixi.js
 
 # Essential
 
@@ -74,7 +74,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [pixi-animate](https://github.com/jiborobot/pixi-animate) ⭐ 225 | 🐛 26 | 🌐 JavaScript | 📅 2023-10-05 – plugin for Pixi.js which provides a runtime for content export using PixiAnimate Extension.
 
-[pixi-ease](https://github.com/davidfig/pixi-ease) ⭐ 103 | 🐛 18 | 🌐 JavaScript | 📅 2022-07-20 - pixi.js animation library using easing functions
+[pixi-ease](https://github.com/davidfig/pixi-ease) ⭐ 103 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-02 - pixi.js animation library using easing functions
 
 \[pixi-animate-extension] – Custom Platform Plugin for Adobe Animate CC (Formerly Adobe Flash CC) - to export animation for the Pixi.js renderer.
 
@@ -82,7 +82,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 # Filters, shaders, vfx
 
-[pixi-filters](https://github.com/pixijs/pixi-filters) ⭐ 1,142 | 🐛 51 | 🌐 TypeScript | 📅 2026-02-13 – some official filters.
+[pixi-filters](https://github.com/pixijs/pixi-filters) ⭐ 1,143 | 🐛 51 | 🌐 TypeScript | 📅 2026-02-13 – some official filters.
 
 [neutrinoparticles.pixi](https://www.npmjs.com/package/neutrinoparticles.pixi) - allows you to render NeutrinoParticles effects such as water stream
 
@@ -92,7 +92,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [EZGUI](https://github.com/Ezelia/EZGUI) ⭐ 446 | 🐛 21 | 🌐 JavaScript | 📅 2018-05-17 – bunch of crafted UI elements to use in your app.
 
-[gown.js](https://github.com/GreyRook/gown.js) ⭐ 226 | 🐛 46 | 🌐 JavaScript | 📅 2026-10-26 – UI system for pixi.js inspired by [feathers-ui](https://feathersui.com/).
+[gown.js](https://github.com/GreyRook/gown.js) ⭐ 226 | 🐛 48 | 🌐 JavaScript | 📅 2026-11-02 – UI system for pixi.js inspired by [feathers-ui](https://feathersui.com/).
 
 [dat.gui](https://github.com/dataarts/dat.gui) ⭐ 7,731 | 🐛 124 | 🌐 JavaScript | 📅 2026-06-21 – DOM-based GUI can be used as dev tools on top of pixi.
 
@@ -100,7 +100,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 # Audio
 
-[pixi-sound](https://github.com/pixijs/pixi-sound) ⭐ 479 | 🐛 50 | 🌐 TypeScript | 📅 2026-11-02 – official WebAudio API playback without any Flash shims or HTML Audio fallback.
+[pixi-sound](https://github.com/pixijs/pixi-sound) ⭐ 479 | 🐛 49 | 🌐 TypeScript | 📅 2026-11-02 – official WebAudio API playback without any Flash shims or HTML Audio fallback.
 
 [sound.js](https://github.com/kittykatattack/sound.js) ⭐ 317 | 🐛 17 | 🌐 JavaScript | 📅 2024-04-25 – a micro-library to load, play and generate sound effects and music for games and interactive applications.
 
@@ -178,4 +178,4 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
