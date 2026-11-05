@@ -8,7 +8,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [github organization](https://github.com/pixijs).
 
-[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,621 | 🐛 416 | 🌐 TypeScript | 📅 2026-11-03.
+[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,622 | 🐛 420 | 🌐 TypeScript | 📅 2026-11-04.
 
 [pixijs.com](http://www.pixijs.com/) – official website.
 
@@ -74,7 +74,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [pixi-animate](https://github.com/jiborobot/pixi-animate) ⭐ 225 | 🐛 26 | 🌐 JavaScript | 📅 2023-10-05 – plugin for Pixi.js which provides a runtime for content export using PixiAnimate Extension.
 
-[pixi-ease](https://github.com/davidfig/pixi-ease) ⭐ 103 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-02 - pixi.js animation library using easing functions
+[pixi-ease](https://github.com/davidfig/pixi-ease) ⭐ 104 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-02 - pixi.js animation library using easing functions
 
 \[pixi-animate-extension] – Custom Platform Plugin for Adobe Animate CC (Formerly Adobe Flash CC) - to export animation for the Pixi.js renderer.
 
@@ -178,4 +178,4 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
