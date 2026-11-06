@@ -140,7 +140,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2025-09-19T04:26:33Z",
-            "open_issues": 45,
+            "open_issues": 44,
             "owner": "mimshwright",
             "repo": "pixi-tagged-text",
             "stars": 37,
@@ -557,8 +557,8 @@
             "id": 31591014,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T11:48:04Z",
-            "open_issues": 50,
+            "last_commit": "2026-11-05T09:52:34Z",
+            "open_issues": 52,
             "owner": "GreyRook",
             "repo": "gown.js",
             "stars": 226,
@@ -645,7 +645,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-04T01:04:19Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "pixijs",
             "repo": "sound",
             "stars": 479,
@@ -936,7 +936,7 @@
             "open_issues": 45,
             "owner": "pixijs",
             "repo": "pixi-react",
-            "stars": 2889,
+            "stars": 2890,
             "topics": [
               "pixi",
               "react",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T01:44:42.507Z",
+    "last_updated": "2026-11-06T01:46:19.500Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
