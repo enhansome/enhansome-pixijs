@@ -223,8 +223,8 @@
             "id": 101721794,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-02T15:10:22Z",
-            "open_issues": 22,
+            "last_commit": "2026-11-06T19:35:13Z",
+            "open_issues": 23,
             "owner": "pixijs-userland",
             "repo": "pixi-viewport",
             "stars": 1221,
@@ -413,7 +413,7 @@
             "open_issues": 3,
             "owner": "avgjs",
             "repo": "pixi-live2d",
-            "stars": 681,
+            "stars": 680,
             "topics": [
               "live2d",
               "pixi",
@@ -483,7 +483,7 @@
             "id": 103220391,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-02T15:10:46Z",
+            "last_commit": "2026-11-06T19:09:18Z",
             "open_issues": 1,
             "owner": "davidfig",
             "repo": "pixi-ease",
@@ -936,7 +936,7 @@
             "open_issues": 45,
             "owner": "pixijs",
             "repo": "pixi-react",
-            "stars": 2890,
+            "stars": 2891,
             "topics": [
               "pixi",
               "react",
@@ -1094,7 +1094,7 @@
             "open_issues": 32,
             "owner": "bemusic",
             "repo": "bemuse",
-            "stars": 1254,
+            "stars": 1255,
             "topics": [
               "bms",
               "bmson",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T01:46:19.500Z",
+    "last_updated": "2026-11-07T01:08:31.298Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
