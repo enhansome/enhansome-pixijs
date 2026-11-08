@@ -223,8 +223,8 @@
             "id": 101721794,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-06T19:35:13Z",
-            "open_issues": 23,
+            "last_commit": "2026-11-07T20:56:47Z",
+            "open_issues": 11,
             "owner": "pixijs-userland",
             "repo": "pixi-viewport",
             "stars": 1221,
@@ -251,8 +251,8 @@
             "id": 62563481,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-02T15:01:13Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-07T20:02:29Z",
+            "open_issues": 0,
             "owner": "davidfig",
             "repo": "rendersheet",
             "stars": 11,
@@ -590,7 +590,7 @@
             "open_issues": 124,
             "owner": "dataarts",
             "repo": "dat.gui",
-            "stars": 7731,
+            "stars": 7730,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T01:08:31.298Z",
+    "last_updated": "2026-11-08T00:52:39.337Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
