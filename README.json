@@ -590,7 +590,7 @@
             "open_issues": 124,
             "owner": "dataarts",
             "repo": "dat.gui",
-            "stars": 7730,
+            "stars": 7731,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -1156,7 +1156,7 @@
             "open_issues": 14,
             "owner": "MattSurabian",
             "repo": "DuckHunt-JS",
-            "stars": 636,
+            "stars": 637,
             "topics": [
               "audio",
               "canvas",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T03:46:41.446Z",
+    "last_updated": "2026-11-11T01:27:28.860Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
