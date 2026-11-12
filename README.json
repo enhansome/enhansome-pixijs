@@ -303,7 +303,7 @@
             "open_issues": 8,
             "owner": "yordan-kanchelov",
             "repo": "pixi-console",
-            "stars": 43,
+            "stars": 44,
             "topics": [
               "console",
               "console-tool",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T01:27:28.860Z",
+    "last_updated": "2026-11-12T02:28:57.984Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
