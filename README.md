@@ -8,7 +8,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [github organization](https://github.com/pixijs).
 
-[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,706 | 🐛 421 | 🌐 TypeScript | 📅 2026-11-11.
+[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,715 | 🐛 425 | 🌐 TypeScript | 📅 2026-11-11.
 
 [pixijs.com](http://www.pixijs.com/) – official website.
 
@@ -32,7 +32,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [pixi-picture](https://github.com/pixijs/pixi-picture) ⭐ 68 | 🐛 15 | 🌐 TypeScript | 📅 2025-06-04 – top-quality render for sprites, removes any artifacts that are present in basic sprite.
 
-[pixi-tilemap](https://github.com/pixijs/pixi-tilemap) ⭐ 331 | 🐛 51 | 🌐 TypeScript | 📅 2025-07-14 – tilemaps with ease.
+[pixi-tilemap](https://github.com/pixijs/pixi-tilemap) ⭐ 330 | 🐛 51 | 🌐 TypeScript | 📅 2025-07-14 – tilemaps with ease.
 
 [pixi-sdf-text](https://github.com/PixelsCommander/pixi-sdf-text) ⭐ 100 | 🐛 6 | 🌐 JavaScript | 📅 2019-05-17 – most efficient text rendering approach for webgl now in pixi.
 
@@ -44,7 +44,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [pixi-heaven](https://github.com/gameofbombs/pixi-heaven) ⭐ 116 | 🐛 15 | 🌐 TypeScript | 📅 2024-12-20 – runtime atlas, double tint for sprites, fastest glsl-calculated sprite masks.
 
-[pixi-viewport](https://github.com/davidfig/pixi-viewport) ⭐ 1,221 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-08 – a highly configurable viewport/2D camera designed to work with pixi.js.
+[pixi-viewport](https://github.com/davidfig/pixi-viewport) ⭐ 1,221 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-14 – a highly configurable viewport/2D camera designed to work with pixi.js.
 
 [canvas-latex](https://github.com/CurriculumAssociates/canvas-latex) – render latex formulas in pixi.js.
 
@@ -82,7 +82,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 # Filters, shaders, vfx
 
-[pixi-filters](https://github.com/pixijs/pixi-filters) ⭐ 1,150 | 🐛 51 | 🌐 TypeScript | 📅 2026-02-13 – some official filters.
+[pixi-filters](https://github.com/pixijs/pixi-filters) ⭐ 1,151 | 🐛 51 | 🌐 TypeScript | 📅 2026-02-13 – some official filters.
 
 [neutrinoparticles.pixi](https://www.npmjs.com/package/neutrinoparticles.pixi) - allows you to render NeutrinoParticles effects such as water stream
 
@@ -140,7 +140,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [kittenattack](https://github.com/kittykatattack) – check that person github repositories, most of them are incredibly suited for learning.
 
-[learningPixi](https://github.com/kittykatattack/learningPixi) ⭐ 4,404 | 🐛 62 | 📅 2021-09-11 – definitive guide to game development with pixi.
+[learningPixi](https://github.com/kittykatattack/learningPixi) ⭐ 4,403 | 🐛 62 | 📅 2021-09-11 – definitive guide to game development with pixi.
 
 # Forks
 
@@ -158,7 +158,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [polyball](https://github.com/polyball/polyball) ⭐ 11 | 🐛 16 | 🌐 JavaScript | 📅 2016-05-26 – fast, multiplayer, physics-driven tennis in two dimensions..
 
-[bemuse](https://github.com/bemusic/bemuse) ⭐ 1,256 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-08 – web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
+[bemuse](https://github.com/bemusic/bemuse) ⭐ 1,257 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-08 – web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
 
 [breakout](https://github.com/Bonnee/breakthefuckout) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2016-10-22 – breakout game made in JavaScript and Pixi.js.
 
@@ -178,4 +178,4 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._

@@ -92,7 +92,7 @@
             "open_issues": 51,
             "owner": "pixijs-userland",
             "repo": "tilemap",
-            "stars": 331,
+            "stars": 330,
             "topics": [
               "canvas",
               "tilemap",
@@ -223,7 +223,7 @@
             "id": 101721794,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-08T15:15:59Z",
+            "last_commit": "2026-11-14T16:55:03Z",
             "open_issues": 10,
             "owner": "pixijs-userland",
             "repo": "pixi-viewport",
@@ -992,7 +992,7 @@
             "open_issues": 62,
             "owner": "kittykatattack",
             "repo": "learningPixi",
-            "stars": 4404,
+            "stars": 4403,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -1094,7 +1094,7 @@
             "open_issues": 32,
             "owner": "bemusic",
             "repo": "bemuse",
-            "stars": 1256,
+            "stars": 1257,
             "topics": [
               "bms",
               "bmson",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T01:42:28.129Z",
+    "last_updated": "2026-11-15T01:15:23.577Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
