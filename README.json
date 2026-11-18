@@ -648,7 +648,7 @@
             "open_issues": 28,
             "owner": "pixijs",
             "repo": "sound",
-            "stars": 479,
+            "stars": 480,
             "topics": [
               "javascript-library",
               "pixi",
@@ -992,7 +992,7 @@
             "open_issues": 62,
             "owner": "kittykatattack",
             "repo": "learningPixi",
-            "stars": 4403,
+            "stars": 4404,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -1156,7 +1156,7 @@
             "open_issues": 14,
             "owner": "MattSurabian",
             "repo": "DuckHunt-JS",
-            "stars": 638,
+            "stars": 639,
             "topics": [
               "audio",
               "canvas",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T04:08:58.372Z",
+    "last_updated": "2026-11-18T03:06:01.180Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
