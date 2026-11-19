@@ -227,7 +227,7 @@
             "open_issues": 10,
             "owner": "pixijs-userland",
             "repo": "pixi-viewport",
-            "stars": 1221,
+            "stars": 1222,
             "topics": [
               "2d-camera",
               "bounce",
@@ -299,7 +299,7 @@
             "id": 119281621,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-29T23:19:52Z",
+            "last_commit": "2026-11-18T15:24:10Z",
             "open_issues": 8,
             "owner": "yordan-kanchelov",
             "repo": "pixi-console",
@@ -487,7 +487,7 @@
             "open_issues": 0,
             "owner": "davidfig",
             "repo": "pixi-ease",
-            "stars": 104,
+            "stars": 107,
             "topics": [
               "animate",
               "ease",
@@ -590,7 +590,7 @@
             "open_issues": 124,
             "owner": "dataarts",
             "repo": "dat.gui",
-            "stars": 7731,
+            "stars": 7732,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -936,7 +936,7 @@
             "open_issues": 46,
             "owner": "pixijs",
             "repo": "pixi-react",
-            "stars": 2891,
+            "stars": 2892,
             "topics": [
               "pixi",
               "react",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T03:06:01.180Z",
+    "last_updated": "2026-11-19T02:45:41.260Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
