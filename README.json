@@ -644,7 +644,7 @@
             "id": 80853199,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-23T01:41:33Z",
+            "last_commit": "2026-11-23T23:11:38Z",
             "open_issues": 7,
             "owner": "pixijs",
             "repo": "sound",
@@ -932,8 +932,8 @@
             "id": 125637394,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-01-16T14:13:41Z",
-            "open_issues": 46,
+            "last_commit": "2026-11-23T12:48:32Z",
+            "open_issues": 47,
             "owner": "pixijs",
             "repo": "pixi-react",
             "stars": 2893,
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T01:56:30.239Z",
+    "last_updated": "2026-11-24T05:29:04.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",

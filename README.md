@@ -8,7 +8,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [github organization](https://github.com/pixijs).
 
-[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,882 | 🐛 448 | 🌐 TypeScript | 📅 2026-11-20.
+[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,883 | 🐛 448 | 🌐 TypeScript | 📅 2026-11-20.
 
 [pixijs.com](http://www.pixijs.com/) – official website.
 
@@ -128,7 +128,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [react-pixi-fiber](https://github.com/michalochman/react-pixi-fiber) ⭐ 881 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-28 – integration with react.js framework.
 
-[react-pixi](https://github.com/inlet/react-pixi) ⭐ 2,893 | 🐛 46 | 🌐 TypeScript | 📅 2026-01-16 – another react.js integration with custom renderer, reconcilation, etc.
+[react-pixi](https://github.com/inlet/react-pixi) ⭐ 2,893 | 🐛 47 | 🌐 TypeScript | 📅 2026-11-23 – another react.js integration with custom renderer, reconcilation, etc.
 
 [RobotlegsJS-Pixi](https://github.com/RobotlegsJS/RobotlegsJS-Pixi) ⭐ 26 | 🐛 2 | 🌐 TypeScript | 📅 2021-06-11 – RobotlegsJS framework integration with PixiJS.
 
@@ -178,4 +178,4 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
