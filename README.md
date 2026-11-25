@@ -8,7 +8,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [github organization](https://github.com/pixijs).
 
-[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,883 | 🐛 448 | 🌐 TypeScript | 📅 2026-11-20.
+[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,898 | 🐛 454 | 🌐 TypeScript | 📅 2026-11-24.
 
 [pixijs.com](http://www.pixijs.com/) – official website.
 
@@ -82,7 +82,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 # Filters, shaders, vfx
 
-[pixi-filters](https://github.com/pixijs/pixi-filters) ⭐ 1,157 | 🐛 51 | 🌐 TypeScript | 📅 2026-02-13 – some official filters.
+[pixi-filters](https://github.com/pixijs/pixi-filters) ⭐ 1,158 | 🐛 51 | 🌐 TypeScript | 📅 2026-02-13 – some official filters.
 
 [neutrinoparticles.pixi](https://www.npmjs.com/package/neutrinoparticles.pixi) - allows you to render NeutrinoParticles effects such as water stream
 
@@ -94,13 +94,13 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [gown.js](https://github.com/GreyRook/gown.js) ⭐ 226 | 🐛 52 | 🌐 JavaScript | 📅 2026-11-05 – UI system for pixi.js inspired by [feathers-ui](https://feathersui.com/).
 
-[dat.gui](https://github.com/dataarts/dat.gui) ⭐ 7,732 | 🐛 124 | 🌐 JavaScript | 📅 2026-06-21 – DOM-based GUI can be used as dev tools on top of pixi.
+[dat.gui](https://github.com/dataarts/dat.gui) ⭐ 7,731 | 🐛 124 | 🌐 JavaScript | 📅 2026-06-21 – DOM-based GUI can be used as dev tools on top of pixi.
 
 [heatmap](https://github.com/nconrad/heatmap) ⭐ 18 | 🐛 20 | 🌐 JavaScript | 📅 2023-01-14 – WebGL Heatmap Viewer for Bioinformatics and Big Data.
 
 # Audio
 
-[pixi-sound](https://github.com/pixijs/pixi-sound) ⭐ 481 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-23 – official WebAudio API playback without any Flash shims or HTML Audio fallback.
+[pixi-sound](https://github.com/pixijs/pixi-sound) ⭐ 481 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-25 – official WebAudio API playback without any Flash shims or HTML Audio fallback.
 
 [sound.js](https://github.com/kittykatattack/sound.js) ⭐ 317 | 🐛 17 | 🌐 JavaScript | 📅 2024-04-25 – a micro-library to load, play and generate sound effects and music for games and interactive applications.
 
@@ -128,7 +128,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [react-pixi-fiber](https://github.com/michalochman/react-pixi-fiber) ⭐ 881 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-28 – integration with react.js framework.
 
-[react-pixi](https://github.com/inlet/react-pixi) ⭐ 2,893 | 🐛 47 | 🌐 TypeScript | 📅 2026-11-23 – another react.js integration with custom renderer, reconcilation, etc.
+[react-pixi](https://github.com/inlet/react-pixi) ⭐ 2,893 | 🐛 46 | 🌐 TypeScript | 📅 2026-11-25 – another react.js integration with custom renderer, reconcilation, etc.
 
 [RobotlegsJS-Pixi](https://github.com/RobotlegsJS/RobotlegsJS-Pixi) ⭐ 26 | 🐛 2 | 🌐 TypeScript | 📅 2021-06-11 – RobotlegsJS framework integration with PixiJS.
 
@@ -162,7 +162,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [breakout](https://github.com/Bonnee/breakthefuckout) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2016-10-22 – breakout game made in JavaScript and Pixi.js.
 
-[duckhunt](https://github.com/MattSurabian/DuckHunt-JS) ⭐ 638 | 🐛 14 | 🌐 JavaScript | 📅 2026-06-30 – DuckHunt ported to JS and HTML5.
+[duckhunt](https://github.com/MattSurabian/DuckHunt-JS) ⭐ 639 | 🐛 14 | 🌐 JavaScript | 📅 2026-06-30 – DuckHunt ported to JS and HTML5.
 
 [doom-lgs](https://github.com/matiasbeckerle/doom-lgs) ⭐ 40 | 🐛 0 | 🌐 JavaScript | 📅 2015-06-12 – a multiplayer Node.js light gun shooter inspired on Doom.
 
@@ -178,4 +178,4 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
