@@ -8,7 +8,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [github organization](https://github.com/pixijs).
 
-[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,898 | 🐛 454 | 🌐 TypeScript | 📅 2026-11-24.
+[github main repository](https://github.com/pixijs/pixi.js) ⭐ 48,905 | 🐛 456 | 🌐 TypeScript | 📅 2026-11-25.
 
 [pixijs.com](http://www.pixijs.com/) – official website.
 
@@ -72,9 +72,9 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [pixi-tween](https://github.com/Nazariglez/pixi-tween) ⚠️ Archived – tweens!
 
-[pixi-animate](https://github.com/jiborobot/pixi-animate) ⭐ 225 | 🐛 26 | 🌐 JavaScript | 📅 2023-10-05 – plugin for Pixi.js which provides a runtime for content export using PixiAnimate Extension.
+[pixi-animate](https://github.com/jiborobot/pixi-animate) ⭐ 226 | 🐛 26 | 🌐 JavaScript | 📅 2023-10-05 – plugin for Pixi.js which provides a runtime for content export using PixiAnimate Extension.
 
-[pixi-ease](https://github.com/davidfig/pixi-ease) ⭐ 109 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-06 - pixi.js animation library using easing functions
+[pixi-ease](https://github.com/davidfig/pixi-ease) ⭐ 111 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-06 - pixi.js animation library using easing functions
 
 \[pixi-animate-extension] – Custom Platform Plugin for Adobe Animate CC (Formerly Adobe Flash CC) - to export animation for the Pixi.js renderer.
 
@@ -94,7 +94,7 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [gown.js](https://github.com/GreyRook/gown.js) ⭐ 226 | 🐛 52 | 🌐 JavaScript | 📅 2026-11-05 – UI system for pixi.js inspired by [feathers-ui](https://feathersui.com/).
 
-[dat.gui](https://github.com/dataarts/dat.gui) ⭐ 7,731 | 🐛 124 | 🌐 JavaScript | 📅 2026-06-21 – DOM-based GUI can be used as dev tools on top of pixi.
+[dat.gui](https://github.com/dataarts/dat.gui) ⭐ 7,731 | 🐛 125 | 🌐 JavaScript | 📅 2026-06-21 – DOM-based GUI can be used as dev tools on top of pixi.
 
 [heatmap](https://github.com/nconrad/heatmap) ⭐ 18 | 🐛 20 | 🌐 JavaScript | 📅 2023-01-14 – WebGL Heatmap Viewer for Bioinformatics and Big Data.
 
@@ -126,9 +126,9 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 [pixi.scala.js](https://github.com/scalajs-io/pixijs) ⭐ 7 | 🐛 0 | 🌐 Scala | 📅 2019-06-17 – externs for scala.js compiler.
 
-[react-pixi-fiber](https://github.com/michalochman/react-pixi-fiber) ⭐ 881 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-28 – integration with react.js framework.
+[react-pixi-fiber](https://github.com/michalochman/react-pixi-fiber) ⭐ 881 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-25 – integration with react.js framework.
 
-[react-pixi](https://github.com/inlet/react-pixi) ⭐ 2,893 | 🐛 46 | 🌐 TypeScript | 📅 2026-11-25 – another react.js integration with custom renderer, reconcilation, etc.
+[react-pixi](https://github.com/inlet/react-pixi) ⭐ 2,893 | 🐛 45 | 🌐 TypeScript | 📅 2026-11-25 – another react.js integration with custom renderer, reconcilation, etc.
 
 [RobotlegsJS-Pixi](https://github.com/RobotlegsJS/RobotlegsJS-Pixi) ⭐ 26 | 🐛 2 | 🌐 TypeScript | 📅 2021-06-11 – RobotlegsJS framework integration with PixiJS.
 
@@ -178,4 +178,4 @@ A list of useful libs/resources/tools for renowned html5 rendering framework
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
