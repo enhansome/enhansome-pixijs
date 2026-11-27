@@ -590,7 +590,7 @@
             "open_issues": 125,
             "owner": "dataarts",
             "repo": "dat.gui",
-            "stars": 7731,
+            "stars": 7730,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:51.874Z"
@@ -644,7 +644,7 @@
             "id": 80853199,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-25T09:29:20Z",
+            "last_commit": "2026-11-27T00:19:08Z",
             "open_issues": 7,
             "owner": "pixijs",
             "repo": "sound",
@@ -905,8 +905,8 @@
             "id": 116292940,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-25T20:35:56Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-26T18:52:58Z",
+            "open_issues": 0,
             "owner": "KalambaGames",
             "repo": "react-pixi-fiber",
             "stars": 881,
@@ -1094,7 +1094,7 @@
             "open_issues": 32,
             "owner": "bemusic",
             "repo": "bemuse",
-            "stars": 1256,
+            "stars": 1257,
             "topics": [
               "bms",
               "bmson",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T03:44:35.721Z",
+    "last_updated": "2026-11-27T03:45:22.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "My list of awesome pixi.js related parties",
